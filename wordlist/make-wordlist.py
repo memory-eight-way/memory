@@ -230,8 +230,6 @@ def make_chap_word_book_text(di_book_words):
 def make_chap_word_all_text(di_all_words):
     lines=""
     
-    #print("di_all_words",di_all_words)
-    
     di_all_dict=dict()
     for w_book_name in di_all_words:
         di_book_word=di_all_words[w_book_name]
@@ -333,10 +331,8 @@ def make_word_list(w_dir_root,w_file_suffix):
         print("parse file:",w_chap_file_name )
         chap_title.append(w_chap_file_name)
         di_book[w_chap_file_name]=make_word_list_fn(os.path.join(w_dir_root,w_chap_file_name))
-        #write_summary_chap_list(di_book[w_chap_file_name ],w_file_suffix+w_chap_file_name )
         
         
-    #write_summary_book_list(di_book,w_file_suffix)
     return di_book
     
     
@@ -354,6 +350,7 @@ def update_di_all(di_all, di_book,w_book_name):
                 di_tmp_book[w_word]=0
             di_tmp_book[w_word]=di_tmp_book[w_word]+di_chap[w_word]
     
+
 def make_word_list_making():
     di_all = dict()
 
@@ -371,31 +368,32 @@ def make_word_list_making():
 def make_word_list_main():
     di_all = dict()
 
-    di_book=make_word_list("../TheArtOfWar/base","TheArtOfWar")
+    di_book=make_word_list("../TheArtOfWar","TheArtOfWar")
     update_di_all(di_all, di_book ,"TheArtOfWar")
 
-    di_book=make_word_list("../holmes/base/SH_01_A_Study_in_Scarlet","SH_01")
+
+    di_book=make_word_list("../holmes/SH_01_A_Study_in_Scarlet","SH_01")
     update_di_all(di_all, di_book,"SH_01" )
 
-    di_book=make_word_list("../holmes/base/SH_02_The_Sign_of_the_Four","SH_02")
+    di_book=make_word_list("../holmes/SH_02_The_Sign_of_the_Four","SH_02")
     update_di_all(di_all, di_book,"SH_02" )
 
-    di_book=make_word_list("../holmes/base/SH_03_The_Hound_of_the_Baskervilles","SH_03")
+    di_book=make_word_list("../holmes/SH_03_The_Hound_of_the_Baskervilles","SH_03")
     update_di_all(di_all, di_book ,"SH_03" )
 
-    di_book=make_word_list("../holmes/base/SH_04_The_Valley_of_Fear","SH_04")
+    di_book=make_word_list("../holmes/SH_04_The_Valley_of_Fear","SH_04")
     update_di_all(di_all, di_book  ,"SH_04")
 
-    di_book=make_word_list("../holmes/base/SH_05_The_Adventures_of_Sherlock_Holmes","SH_05")
+    di_book=make_word_list("../holmes/SH_05_The_Adventures_of_Sherlock_Holmes","SH_05")
     update_di_all(di_all, di_book  ,"SH_05")
 
-    di_book=make_word_list("../holmes/base/SH_06_The_Memoirs_of_Sherlock_Holmes","SH_06")
+    di_book=make_word_list("../holmes/SH_06_The_Memoirs_of_Sherlock_Holmes","SH_06")
     update_di_all(di_all, di_book  ,"SH_06")
 
-    di_book=make_word_list("../holmes/base/SH_07_The_Return_of_Sherlock_Holmes","SH_07")
+    di_book=make_word_list("../holmes/SH_07_The_Return_of_Sherlock_Holmes","SH_07")
     update_di_all(di_all, di_book  ,"SH_07")
 
-    di_book=make_word_list("../holmes/base/SH_08_His_Last_Bow","SH_08")
+    di_book=make_word_list("../holmes/SH_08_His_Last_Bow","SH_08")
     update_di_all(di_all, di_book  ,"SH_08")
     
     # make_word_list("../holmes/SH_09_The_Case-Book_of_Sherlock_Holmes","SH_09")
