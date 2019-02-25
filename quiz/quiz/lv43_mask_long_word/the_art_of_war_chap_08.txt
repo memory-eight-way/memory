@@ -1,5 +1,5 @@
-Lv43
-VIII. 
+Lv43-mask_long_word
+VIII. _________ __ _______
 
 
 1. Sun Tzu said: In war, the general ________ his ________ from the __________ ________ his army and ____________ his forces.
@@ -57,4 +57,5 @@ VIII.
 
 
 14-2. ___ ____ __ a _______ __ ___________
+
 

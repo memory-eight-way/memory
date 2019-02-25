@@ -1,4 +1,4 @@
-Lv65
+Lv65-mask_letter
 XIII. T__ US_ __ S___S
 
 
@@ -120,4 +120,5 @@ XIII. T__ US_ __ S___S
 
 
 27-2. S___s _r_ _ __st ____rt__t ______t __ w_t_r, ____us_ __ t___ ______s __ _r_y's _____ty t_ __v_.
+
 

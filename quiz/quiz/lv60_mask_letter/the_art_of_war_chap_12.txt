@@ -1,4 +1,4 @@
-Lv60
+Lv60-mask_letter
 XII. T__ _TT___ _Y __R_
 
 
@@ -78,4 +78,5 @@ XII. T__ _TT___ _Y __R_
 
 
 22-2. T__s _s t__ w_y to ___p _ _ountry _t p____ _n_ _n _rmy _nt__t.
+
 

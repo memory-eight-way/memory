@@ -1,5 +1,5 @@
-Lv40
-X. 
+Lv40-mask_long_word
+X. _______
 
 
 1. Sun Tzu said: We may ___________ six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) ___________ ground; (4) narrow passes; (5) ___________ heights; (6) positions at a great distance from the enemy.
@@ -111,4 +111,5 @@ X.
 
 
 31. Hence the saying: If you know the enemy and know _________ your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory _________
+
 

@@ -1,4 +1,4 @@
-Lv24
+Lv24-mask_top_letter
 VIII. _____TION __ _____CS
 
 
@@ -57,4 +57,5 @@ VIII. _____TION __ _____CS
 
 
 14-2. ___ ____ __ _ _____ct __ _____ation.
+
 

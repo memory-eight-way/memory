@@ -1,5 +1,5 @@
-Lv39
-II. 
+Lv39-mask_short_word
+II. WAGING WAR
 
 
 1-1. Sun Tzu said: __ the operations __ war, where there are __ the field _ thousand swift chariots, __ many heavy chariots, and _ hundred thousand mail-clad soldiers, with provisions enough __ carry them _ thousand li, the expenditure __ home and __ the front, including entertainment __ guests, small items such __ glue and paint, and sums spent __ chariots and armor, will reach the total __ _ thousand ounces __ silver per day.
@@ -38,7 +38,7 @@ II.
 9-1. _____ ___ material ____ ___ ____ _____ ___ ______ __ ___ ______
 
 
-9-2. 
+9-2. Thus the army will have food enough for its needs.
 
 
 10-1. Poverty __ ___ _____ exchequer ______ __ ____ __ __ maintained __ contributions ____ _ distance.
@@ -71,7 +71,7 @@ II.
 17-2. ___ ___ flags should __ substituted ___ those __ ___ enemy, ___ ___ chariots mingled ___ ____ __ conjunction ____ ours.
 
 
-17-3. 
+17-3. The captured soldiers should be kindly treated and kept.
 
 
 18. ____ __ _______ _____ ___ _________ ___ __ _______ _____ ___ _________

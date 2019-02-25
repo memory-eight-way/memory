@@ -1,5 +1,5 @@
-Lv32
-VIII. 
+Lv32-mask_short_word
+VIII. VARIATION IN TACTICS
 
 
 1. ___ ___ said: __ war, ___ general receives ___ commands from ___ sovereign, collects ___ army ___ concentrates ___ forces.
@@ -57,4 +57,5 @@ VIII.
 
 
 14-2. ___ them __ _ subject __ meditation.
+
 

@@ -1,5 +1,5 @@
-Lv48
-II. 
+Lv48-mask_long_word
+II. ______ ___
 
 
 1-1. Sun Tzu said: In the __________ of war, where there are in the field a ________ swift _________ as many heavy _________ and a hundred ________ _________ _________ with __________ enough to carry them a ________ li, the ___________ at home and at the front, _________ _____________ of guests, small items such as glue and paint, and sums spent on ________ and armor, will reach the total of a ________ ounces of silver per day.
@@ -71,7 +71,7 @@ II.
 17-2. Our own _____ ______ be ___________ for _____ of the ______ and the ________ _______ and ____ in ___________ ____ _____
 
 
-17-3. 
+17-3. ___ ________ ________ ______ __ ______ _______ ___ _____
 
 
 18. ____ is _______ _____ ___ _________ ___ to _______ _____ ___ _________

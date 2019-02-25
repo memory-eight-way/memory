@@ -1,4 +1,4 @@
-Lv9
+Lv9-mask_consonant_symbol
 X. _E__AI_
 
 
@@ -111,4 +111,5 @@ X. _E__AI_
 
 
 31. _e__e __e _a_i___ I_ _ou __o_ __e e_e__ a__ __o_ _ou__e___ _ou_ _i__o__ _i__ _o_ __a__ i_ _ou___ i_ _ou __o_ _ea_e_ a__ __o_ Ea____ _ou _a_ _a_e _ou_ _i__o__ _o___e_e_
+
 

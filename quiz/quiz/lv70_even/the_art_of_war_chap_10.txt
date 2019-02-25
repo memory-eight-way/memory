@@ -1,4 +1,4 @@
-Lv70
+Lv70-even
 X. TERRAIN
 
 
@@ -111,4 +111,5 @@ X. TERRAIN
 
 
 31. Hence ___ saying: __ you ____ the _____ and ____ yourself, ____ victory ____ not _____ in ______ if ___ know ______ and ____ Earth, ___ may ____ your _______ complete.
+
 

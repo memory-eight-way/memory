@@ -1,5 +1,5 @@
-Lv35
-XII. 
+Lv35-mask_short_word
+XII. THE ATTACK BY FIRE
 
 
 1-1. ___ ___ said: There ___ ____ ____ __ attacking ____ fire.
@@ -38,7 +38,7 @@ XII.
 10-1. ___ When ___ start _ fire, __ __ windward __ ___
 
 
-10-2. 
+10-2. Do not attack from the leeward.
 
 
 11. _ ____ ____ rises __ ___ daytime lasts long, ___ _ night breeze ____ falls.
@@ -78,4 +78,5 @@ XII.
 
 
 22-2. This __ ___ ___ __ keep _ country __ peace ___ __ army intact.
+
 

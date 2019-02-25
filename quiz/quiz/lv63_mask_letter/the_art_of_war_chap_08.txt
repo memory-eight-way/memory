@@ -1,4 +1,4 @@
-Lv63
+Lv63-mask_letter
 VIII. V_R__T_O_ __ T__T__S
 
 
@@ -57,4 +57,5 @@ VIII. V_R__T_O_ __ T__T__S
 
 
 14-2. __t t___ __ _ su____t o_ ____t_t_o_.
+
 

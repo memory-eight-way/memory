@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 XIII. ___ ___ __ SP___
 
 
@@ -120,4 +120,5 @@ XIII. ___ ___ __ SP___
 
 
 27-2. Sp___ ___ _ m___ import___ elem___ __ wat___ beca___ __ t___ depe___ __ arm___ abil___ __ mo___
+
 

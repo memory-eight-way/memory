@@ -1,4 +1,4 @@
-Lv31
+Lv31-mask_short_word
 XII. ___ ATTACK __ ____
 
 
@@ -78,4 +78,5 @@ XII. ___ ATTACK __ ____
 
 
 22-2. This __ the way __ keep _ country __ peace and __ army intact.
+
 

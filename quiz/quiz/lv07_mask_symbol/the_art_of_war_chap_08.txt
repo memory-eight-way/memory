@@ -1,4 +1,4 @@
-Lv7
+Lv7-mask_symbol
 VIII. VARIATION IN TACTICS
 
 
@@ -57,4 +57,5 @@ VIII. VARIATION IN TACTICS
 
 
 14-2. Let them be a subject of meditation_
+
 

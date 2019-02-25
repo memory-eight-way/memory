@@ -1,4 +1,4 @@
-Lv5
+Lv5-mask_vowel
 X. T_RR__N
 
 
@@ -111,4 +111,5 @@ X. T_RR__N
 
 
 31. H_nc_ th_ s_y_ng: _f y__ kn_w th_ _n_my _nd kn_w y__rs_lf, y__r v_ct_ry w_ll n_t st_nd _n d__bt; _f y__ kn_w H__v_n _nd kn_w __rth, y__ m_y m_k_ y__r v_ct_ry c_mpl_t_.
+
 

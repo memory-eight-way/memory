@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 IX. ___ A___ __ ___ MA___
 
 
@@ -195,4 +195,5 @@ IX. ___ A___ __ ___ MA___
 
 
 45. __ _ gene___ sh___ confide___ __ ___ ___ ___ alw___ insi___ __ ___ ord___ be___ obey___ ___ g___ w___ __ mutu___
+
 

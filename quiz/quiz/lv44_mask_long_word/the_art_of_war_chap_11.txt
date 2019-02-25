@@ -1,5 +1,5 @@
-Lv44
-XI. 
+Lv44-mask_long_word
+XI. ___ ____ __________
 
 
 1. Sun Tzu said: The art of war __________ nine _________ of ground: (1) __________ ground; (2) facile ground; (3) ___________ ground; (4) open ground; (5) ground of ____________ _________ (6) serious ground; (7) _________ ground; (8) _________ ground; (9) _________ ground.
@@ -35,10 +35,10 @@ XI.
 11-1. __ __________ _______ __________ _____ ____
 
 
-11-2. 
+11-2. __ ______ _______ ____ ____
 
 
-11-3. 
+11-3. __ ___________ _______ ______ ____
 
 
 12-1. On ____ _______ do ___ ___ to _____ ___ _______ ____
@@ -56,7 +56,7 @@ XI.
 14-1. __ _________ _______ ______ __ __________
 
 
-14-2. 
+14-2. __ _________ _______ ______
 
 
 15. Those who were called ________ leaders of old knew how to drive a wedge between the enemy's front and rear; to prevent ____________ between his large and small __________ to hinder the good troops from ________ the bad, the ________ from ________ their men.

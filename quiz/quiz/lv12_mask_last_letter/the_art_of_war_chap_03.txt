@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 III. ATT___ __ STRATA___
 
 

@@ -1,4 +1,4 @@
-Lv13
+Lv13-mask_last_letter
 VIII. VARIA____ __ TAC____
 
 
@@ -57,4 +57,5 @@ VIII. VARIA____ __ TAC____
 
 
 14-2. ___ ____ __ _ sub____ __ meditat____
+
 

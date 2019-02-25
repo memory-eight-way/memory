@@ -1,5 +1,5 @@
-Lv34
-IX. 
+Lv34-mask_short_word
+IX. THE ARMY ON THE MARCH
 
 
 1-1. ___ ___ said: __ come ___ __ ___ question __ encamping ___ army, ___ observing signs __ ___ enemy.
@@ -14,7 +14,7 @@ IX.
 2-2. __ ___ _____ heights __ _____ __ fight.
 
 
-2-3. 
+2-3. So much for mountain warfare.
 
 
 3. After crossing _ river, ___ should ___ ___ ____ ____ ___
@@ -35,7 +35,7 @@ IX.
 6-2. __ ___ ____ up-stream __ ____ ___ enemy.
 
 
-6-3. 
+6-3. So much for river warfare.
 
 
 7. __ crossing salt-marshes, ____ ____ concern should __ __ ___ ____ ____ quickly, without ___ delay.
@@ -140,7 +140,7 @@ IX.
 32-1. __ _____ gather __ ___ _____ __ __ unoccupied.
 
 
-32-2. 
+32-2. Clamor by night betokens nervousness.
 
 
 33-1. __ there __ disturbance __ ___ camp, ___ general's authority __ weak.
@@ -195,4 +195,5 @@ IX.
 
 
 45. __ _ general shows confidence __ ___ ___ ___ always insists __ ___ orders being obeyed, ___ gain will __ mutual.
+
 

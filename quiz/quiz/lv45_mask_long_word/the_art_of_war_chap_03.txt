@@ -1,5 +1,5 @@
-Lv45
-III. 
+Lv45-mask_long_word
+III. ______ __ _________
 
 
 1-1. Sun Tzu _____ In the _________ art of war, the best _____ of all is to take the _______ _______ _____ and _______ to _______ and _______ it is not so _____
@@ -53,7 +53,7 @@ III.
 13-1. (1) By __________ the army to _______ or to ________ _____ ________ of the fact that it ______ _____
 
 
-13-2. 
+13-2. ____ __ ______ ________ ___ _____
 
 
 14-1. (2) By __________ to ______ an army in the same way as he ___________ a ________ being ________ of the __________ which ______ in an army.

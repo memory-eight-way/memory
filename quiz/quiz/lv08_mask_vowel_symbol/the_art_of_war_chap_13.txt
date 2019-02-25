@@ -1,4 +1,4 @@
-Lv8
+Lv8-mask_vowel_symbol
 XIII. TH_ _S_ _F SP__S
 
 
@@ -120,4 +120,5 @@ XIII. TH_ _S_ _F SP__S
 
 
 27-2. Sp__s _r_ _ m_st _mp_rt_nt _l_m_nt _n w_t_r_ b_c__s_ _n th_m d_p_nds _n _rmy_s _b_l_ty t_ m_v__
+
 

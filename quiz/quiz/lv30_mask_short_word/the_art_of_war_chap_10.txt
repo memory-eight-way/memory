@@ -1,5 +1,5 @@
-Lv30
-X. 
+Lv30-mask_short_word
+X. TERRAIN
 
 
 1. Sun Tzu said: __ may distinguish six kinds __ terrain, __ wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions __ _ great distance from the enemy.
@@ -111,4 +111,5 @@ X.
 
 
 31. Hence the saying: __ you know the enemy and know yourself, your victory will not stand __ doubt; __ you know Heaven and know Earth, you may make your victory complete.
+
 

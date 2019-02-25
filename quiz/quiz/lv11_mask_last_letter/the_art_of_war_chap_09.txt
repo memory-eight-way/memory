@@ -1,4 +1,4 @@
-Lv11
+Lv11-mask_last_letter
 IX. T__ AR__ __ T__ MAR__
 
 
@@ -195,4 +195,5 @@ IX. T__ AR__ __ T__ MAR__
 
 
 45. __ _ gener__ sho__ confiden__ __ h__ m__ b__ alwa__ insis__ __ h__ orde__ bei__ obeye__ t__ ga__ wi__ __ mutua__
+
 

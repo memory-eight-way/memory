@@ -1,4 +1,4 @@
-Lv31
+Lv31-mask_short_word
 IX. ___ ARMY __ ___ MARCH
 
 
@@ -195,4 +195,5 @@ IX. ___ ARMY __ ___ MARCH
 
 
 45. __ _ general shows confidence __ his men but always insists __ his orders being obeyed, the gain will __ mutual.
+
 

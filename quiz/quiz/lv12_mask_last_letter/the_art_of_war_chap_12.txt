@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 XII. ___ ATT___ __ F___
 
 
@@ -78,4 +78,5 @@ XII. ___ ATT___ __ F___
 
 
 22-2. T___ __ ___ ___ __ k___ _ coun___ __ pe___ ___ __ a___ inta___
+
 

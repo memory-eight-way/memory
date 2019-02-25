@@ -1,4 +1,4 @@
-Lv42
+Lv42-mask_long_word
 XIII. ___ ___ __ _____
 
 
@@ -120,4 +120,5 @@ XIII. ___ ___ __ _____
 
 
 27-2. Spies are a most _________ _______ in water, _______ on them _______ an army's _______ to move.
+
 

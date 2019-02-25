@@ -1,5 +1,5 @@
-Lv45
-XIII. 
+Lv45-mask_long_word
+XIII. ___ ___ __ _____
 
 
 1-1. Sun Tzu said: _______ a host of a _______ ________ men and ________ them great _________ _______ heavy loss on the people and a drain on the _________ of the State.
@@ -62,7 +62,7 @@ XIII.
 14-1. _____ it is that _____ none in the _____ army are more ________ _________ to be __________ than with ______
 
 
-14-2. 
+14-2. ____ ______ __ ____ _________ _________
 
 
 14-3. __ __ _____ ________ ______ _______ _______ __ __________
@@ -120,4 +120,5 @@ XIII.
 
 
 27-2. Spies are a most _________ _______ in ______ _______ on them _______ an ______ _______ to move.
+
 

@@ -1,5 +1,5 @@
-Lv47
-X. 
+Lv47-mask_long_word
+X. _______
 
 
 1. Sun Tzu said: We may ___________ six kinds of ________ to wit: (1) __________ ground; (2) __________ ground; (3) ___________ ground; (4) narrow passes; (5) ___________ ________ (6) _________ at a great ________ from the enemy.
@@ -44,7 +44,7 @@ X.
 12. If you are ________ at a great ________ from the ______ and the ________ of the two ______ is ______ it is not easy to _______ a _______ and ________ will be to your _____________
 
 
-13-1. 
+13-1. _____ ___ ___ ___ __________ _________ ____ ______
 
 
 13-2. ___ _______ ___ ___ ________ a ___________ ____ ____ be _______ to _____ _____
@@ -111,4 +111,5 @@ X.
 
 
 31. _____ the _______ If you know the _____ and know _________ your _______ will not _____ in ______ if you know ______ and know ______ you may make your _______ _________
+
 

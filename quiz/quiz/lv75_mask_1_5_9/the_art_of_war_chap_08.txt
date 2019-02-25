@@ -1,4 +1,4 @@
-Lv75
+Lv75-mask_1_5_9
 VIII. _________ IN TACTICS
 
 
@@ -57,4 +57,5 @@ VIII. _________ IN TACTICS
 
 
 14-2. ___ them be a _______ of meditation.
+
 

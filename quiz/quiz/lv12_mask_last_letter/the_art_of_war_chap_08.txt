@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 VIII. VARIAT___ __ TACT___
 
 
@@ -57,4 +57,5 @@ VIII. VARIAT___ __ TACT___
 
 
 14-2. ___ t___ __ _ subj___ __ meditati___
+
 

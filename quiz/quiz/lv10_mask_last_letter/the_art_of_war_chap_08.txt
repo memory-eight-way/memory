@@ -1,4 +1,4 @@
-Lv10
+Lv10-mask_last_letter
 VIII. VARIATIO_ I_ TACTIC_
 
 
@@ -57,4 +57,5 @@ VIII. VARIATIO_ I_ TACTIC_
 
 
 14-2. Le_ the_ b_ _ subjec_ o_ meditation_
+
 

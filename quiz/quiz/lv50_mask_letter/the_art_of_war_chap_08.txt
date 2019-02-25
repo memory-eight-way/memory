@@ -1,4 +1,4 @@
-Lv50
+Lv50-mask_letter
 VIII. V_RI_TION IN T_CTICS
 
 
@@ -57,4 +57,5 @@ VIII. V_RI_TION IN T_CTICS
 
 
 14-2. Let them be _ subject of medit_tion.
+
 

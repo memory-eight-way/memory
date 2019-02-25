@@ -1,4 +1,4 @@
-Lv51
+Lv51-mask_letter
 X. TERR_IN
 
 
@@ -111,4 +111,5 @@ X. TERR_IN
 
 
 31. Hence the s_ying: If you know the enemy _nd know yourself, your victory will not st_nd in dou_t; if you know He_ven _nd know E_rth, you m_y m_ke your victory complete.
+
 

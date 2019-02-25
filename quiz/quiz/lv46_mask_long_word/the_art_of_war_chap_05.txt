@@ -1,5 +1,5 @@
-Lv46
-V. 
+Lv46-mask_long_word
+V. ______
 
 
 1. Sun Tzu _____ The _______ of a _____ _____ is the same _________ as the _______ of a few men: it is ______ a ________ of ________ up _____ ________
@@ -86,4 +86,4 @@ V.
 23-1. Thus the ______ _________ by good ________ men is as the ________ of a round stone ______ down a ________ _________ of feet in _______
 
 
-23-2. 
+23-2. __ ____ __ ___ _______ __ _______

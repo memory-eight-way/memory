@@ -1,4 +1,4 @@
-Lv14
+Lv14-mask_last_letter
 VIII. VARI_____ __ TA_____
 
 
@@ -57,4 +57,5 @@ VIII. VARI_____ __ TA_____
 
 
 14-2. ___ ____ __ _ su_____ __ medita_____
+
 

@@ -1,5 +1,5 @@
-Lv32
-IV. 
+Lv32-mask_short_word
+IV. TACTICAL DISPOSITIONS
 
 
 1. Sun Tzu said: The good fighters __ old first put themselves beyond the possibility __ defeat, and then waited for __ opportunity __ defeating the enemy.

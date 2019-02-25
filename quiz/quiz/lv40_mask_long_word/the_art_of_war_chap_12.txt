@@ -1,4 +1,4 @@
-Lv40
+Lv40-mask_long_word
 XII. THE ______ BY ____
 
 
@@ -78,4 +78,5 @@ XII. THE ______ BY ____
 
 
 22-2. This is the way to keep a _______ at peace and an army _______
+
 

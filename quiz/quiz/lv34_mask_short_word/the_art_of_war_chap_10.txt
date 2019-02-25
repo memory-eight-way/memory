@@ -1,5 +1,5 @@
-Lv34
-X. 
+Lv34-mask_short_word
+X. TERRAIN
 
 
 1. ___ ___ said: __ ___ distinguish ___ kinds __ terrain, __ wit: ___ Accessible ground; ___ entangling ground; ___ temporizing ground; ___ narrow passes; ___ precipitous heights; ___ positions __ _ great distance from ___ enemy.
@@ -111,4 +111,5 @@ X.
 
 
 31. Hence ___ saying: __ ___ know ___ enemy ___ know yourself, your victory will ___ stand __ doubt; __ ___ know Heaven ___ know Earth, ___ ___ make your victory complete.
+
 

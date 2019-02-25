@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 VI. W___ POI___ ___ STR___
 
 

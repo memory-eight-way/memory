@@ -1,4 +1,4 @@
-Lv51
+Lv51-mask_letter
 XII. THE _TT_CK _Y FIRE
 
 
@@ -78,4 +78,5 @@ XII. THE _TT_CK _Y FIRE
 
 
 22-2. This is the w_y to keep _ country _t pe_ce _nd _n _rmy int_ct.
+
 

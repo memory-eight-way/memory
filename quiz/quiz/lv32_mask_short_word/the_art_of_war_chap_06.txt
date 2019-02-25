@@ -1,4 +1,4 @@
-Lv32
+Lv32-mask_short_word
 VI. ____ ______ ___ ______
 
 

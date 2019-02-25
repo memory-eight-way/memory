@@ -1,5 +1,5 @@
-Lv35
-III. 
+Lv35-mask_short_word
+III. ATTACK BY STRATAGEM
 
 
 1-1. Sun Tzu said: __ the practical art __ war, the best thing __ all __ __ take the enemy's country whole and intact; __ shatter and destroy __ __ not __ good.
@@ -53,7 +53,7 @@ III.
 13-1. ___ __ commanding ___ army __ advance __ __ retreat, being ignorant __ ___ fact that __ cannot obey.
 
 
-13-2. 
+13-2. This is called hobbling the army.
 
 
 14-1. (2) __ attempting __ govern __ army __ the same way __ __ administers _ kingdom, being ignorant __ the conditions which obtain __ __ army.

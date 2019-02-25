@@ -1,4 +1,4 @@
-Lv30
+Lv30-mask_short_word
 XII. ___ ATTACK __ FIRE
 
 
@@ -78,4 +78,5 @@ XII. ___ ATTACK __ FIRE
 
 
 22-2. This __ the way __ keep _ country __ peace and __ army intact.
+
 

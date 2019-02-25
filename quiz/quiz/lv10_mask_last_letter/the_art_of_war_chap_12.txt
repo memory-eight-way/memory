@@ -1,4 +1,4 @@
-Lv10
+Lv10-mask_last_letter
 XII. TH_ ATTAC_ B_ FIR_
 
 
@@ -78,4 +78,5 @@ XII. TH_ ATTAC_ B_ FIR_
 
 
 22-2. Thi_ i_ th_ wa_ t_ kee_ _ countr_ a_ peac_ an_ a_ arm_ intact_
+
 

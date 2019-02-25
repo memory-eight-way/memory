@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 X. TERR___
 
 
@@ -111,4 +111,5 @@ X. TERR___
 
 
 31. He___ ___ sayi___ __ ___ k___ ___ en___ ___ k___ yourse___ y___ vict___ w___ ___ st___ __ dou___ __ ___ k___ Hea___ ___ k___ Ear___ ___ ___ m___ y___ vict___ comple___
+
 

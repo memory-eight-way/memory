@@ -1,4 +1,4 @@
-Lv20
+Lv20-mask_top_letter
 VIII. _ARIATION _N _ACTICS
 
 
@@ -57,4 +57,5 @@ VIII. _ARIATION _N _ACTICS
 
 
 14-2. _et _hem _e _ _ubject _f _editation.
+
 

@@ -1,4 +1,4 @@
-Lv12
+Lv12-mask_last_letter
 IV. TACTI___ DISPOSITI___
 
 

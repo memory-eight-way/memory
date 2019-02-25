@@ -1,4 +1,4 @@
-Lv20
+Lv20-mask_top_letter
 IX. _HE _RMY _N _HE _ARCH
 
 
@@ -195,4 +195,5 @@ IX. _HE _RMY _N _HE _ARCH
 
 
 45. _f _ _eneral _hows _onfidence _n _is _en _ut _lways _nsists _n _is _rders _eing _beyed, _he _ain _ill _e _utual.
+
 

@@ -1,4 +1,4 @@
-Lv41
+Lv41-mask_long_word
 XII. ___ ______ BY ____
 
 
@@ -78,4 +78,5 @@ XII. ___ ______ BY ____
 
 
 22-2. This is the way to keep a _______ at _____ and an army _______
+
 

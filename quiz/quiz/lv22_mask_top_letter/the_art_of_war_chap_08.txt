@@ -1,4 +1,4 @@
-Lv22
+Lv22-mask_top_letter
 VIII. ___IATION __ ___TICS
 
 
@@ -57,4 +57,5 @@ VIII. ___IATION __ ___TICS
 
 
 14-2. ___ ___m __ _ ___ject __ ___itation.
+
 

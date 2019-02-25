@@ -1,5 +1,5 @@
-Lv33
-XII. 
+Lv33-mask_short_word
+XII. THE ATTACK BY FIRE
 
 
 1-1. ___ ___ said: There ___ ____ ____ __ attacking ____ fire.
@@ -78,4 +78,5 @@ XII.
 
 
 22-2. This __ the way __ keep _ country __ peace and __ army intact.
+
 

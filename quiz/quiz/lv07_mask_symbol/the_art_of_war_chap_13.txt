@@ -1,4 +1,4 @@
-Lv7
+Lv7-mask_symbol
 XIII. THE USE OF SPIES
 
 
@@ -120,4 +120,5 @@ XIII. THE USE OF SPIES
 
 
 27-2. Spies are a most important element in water_ because on them depends an army_s ability to move_
+
 

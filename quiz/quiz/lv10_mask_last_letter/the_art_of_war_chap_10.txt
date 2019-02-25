@@ -1,4 +1,4 @@
-Lv10
+Lv10-mask_last_letter
 X. TERRAI_
 
 
@@ -111,4 +111,5 @@ X. TERRAI_
 
 
 31. Henc_ th_ saying_ I_ yo_ kno_ th_ enem_ an_ kno_ yourself_ you_ victor_ wil_ no_ stan_ i_ doubt_ i_ yo_ kno_ Heave_ an_ kno_ Earth_ yo_ ma_ mak_ you_ victor_ complete_
+
 

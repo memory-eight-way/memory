@@ -1,4 +1,4 @@
-Lv61
+Lv61-mask_letter
 X. T_RR__N
 
 
@@ -111,4 +111,5 @@ X. T_RR__N
 
 
 31. __n__ t__ s_y_n_: __ you _now t__ _n_my _n_ _now yours___, your v__tory w___ not st_n_ _n _ou_t; __ you _now ___v_n _n_ _now __rt_, you m_y m___ your v__tory _omp__t_.
+
 

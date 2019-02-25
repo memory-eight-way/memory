@@ -1,4 +1,4 @@
-Lv57
+Lv57-mask_letter
 X. T_RR_IN
 
 
@@ -111,4 +111,5 @@ X. T_RR_IN
 
 
 31. __n__ t__ s_yin_: I_ you know t__ _n_my _n_ know yours_l_, your vi_tory will not st_n_ in _ou_t; i_ you know ___v_n _n_ know __rt_, you m_y m_k_ your vi_tory _ompl_t_.
+
 

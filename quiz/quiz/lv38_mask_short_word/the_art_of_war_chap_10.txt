@@ -1,5 +1,5 @@
-Lv38
-X. 
+Lv38-mask_short_word
+X. TERRAIN
 
 
 1. ___ ___ said: __ ___ distinguish ___ kinds __ terrain, __ wit: ___ Accessible ground; ___ entangling ground; ___ temporizing ground; ___ narrow passes; ___ precipitous heights; ___ positions __ _ great distance from ___ enemy.
@@ -11,7 +11,7 @@ X.
 3-1. ____ regard __ ground __ ____ nature, __ before ___ enemy __ occupying ___ raised ___ sunny spots, ___ carefully guard ____ ____ __ supplies.
 
 
-3-2. 
+3-2. Then you will be able to fight with advantage.
 
 
 4. ______ _____ ___ __ abandoned ___ __ ____ __ re-occupy __ ______ entangling.
@@ -44,7 +44,7 @@ X.
 12. __ you are situated __ _ great distance from the enemy, and the strength __ the two armies __ equal, __ __ not easy __ provoke _ battle, and fighting will __ __ your disadvantage.
 
 
-13-1. 
+13-1. These six are the principles connected with Earth.
 
 
 13-2. ___ general ___ ___ attained _ responsible ____ ____ __ careful __ _____ _____
@@ -111,4 +111,5 @@ X.
 
 
 31. Hence ___ saying: __ ___ know ___ enemy ___ know yourself, your victory will ___ stand __ doubt; __ ___ know Heaven ___ know Earth, ___ ___ make your victory complete.
+
 

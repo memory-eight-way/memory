@@ -1,5 +1,5 @@
-Lv38
-XI. 
+Lv38-mask_short_word
+XI. THE NINE SITUATIONS
 
 
 1. ___ ___ said: ___ ___ __ ___ recognizes nine varieties __ ground: ___ Dispersive ground; ___ facile ground; ___ contentious ground; ___ open ground; ___ ground __ intersecting highways; ___ serious ground; ___ difficult ground; ___ hemmed-in ground; ___ desperate ground.
@@ -32,13 +32,13 @@ XI.
 10. Ground __ _____ __ ___ ____ __ _____ ____ destruction __ fighting without delay, __ desperate ground.
 
 
-11-1. 
+11-1. On dispersive ground, therefore, fight not.
 
 
-11-2. 
+11-2. On facile ground, halt not.
 
 
-11-3. 
+11-3. On contentious ground, attack not.
 
 
 12-1. __ ____ _______ __ ___ ___ __ _____ ___ _______ ____
@@ -47,16 +47,16 @@ XI.
 12-2. __ ___ ______ __ intersecting _________ ____ _____ ____ ____ _______
 
 
-13-1. 
+13-1. On serious ground, gather in plunder.
 
 
-13-2. 
+13-2. In difficult ground, keep steadily on the march.
 
 
-14-1. 
+14-1. On hemmed-in ground, resort to stratagem.
 
 
-14-2. 
+14-2. On desperate ground, fight.
 
 
 15. Those ___ were called skillful leaders __ ___ knew ___ __ drive _ wedge between ___ enemy's front ___ rear; __ prevent co-operation between ___ large ___ small divisions; __ hinder ___ good troops from rescuing ___ bad, ___ officers from rallying their men.
@@ -83,7 +83,7 @@ XI.
 22-1. Carefully _____ ___ well-being __ ____ ____ ___ __ ___ _______ _____
 
 
-22-2. 
+22-2. Concentrate your energy and hoard your strength.
 
 
 22-3. ____ ____ ____ ___________ __ ___ _____ ___ ______ unfathomable ______
@@ -128,7 +128,7 @@ XI.
 28-2. ___ ___ them once __ brought __ bay, ___ they will display ___ courage __ _ ___ __ _ Kuei.
 
 
-29-1. 
+29-1. The skillful tactician may be likened to the shuai-jan.
 
 
 29-2. ___ ___ shuai-jan __ _ _____ ____ __ _____ __ ___ _____ mountains.
@@ -209,7 +209,7 @@ XI.
 46-2. __ facile ground, _ _____ ___ ____ _____ __ _____ connection between ___ _____ __ __ _____
 
 
-47. 
+47. On contentious ground, I would hurry up my rear.
 
 
 48-1. __ ____ _______ _ _____ ____ _ vigilant ___ __ __ defenses.

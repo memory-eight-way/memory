@@ -1,4 +1,4 @@
-Lv65
+Lv65-mask_letter
 XII. T__ _TT___ _Y __R_
 
 
@@ -78,4 +78,5 @@ XII. T__ _TT___ _Y __R_
 
 
 22-2. T__s _s t__ w_y t_ ____ _ __u_try _t _____ ___ __ _r_y __t__t.
+
 

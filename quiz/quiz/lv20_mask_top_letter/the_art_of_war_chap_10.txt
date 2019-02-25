@@ -1,4 +1,4 @@
-Lv20
+Lv20-mask_top_letter
 X. _ERRAIN
 
 
@@ -111,4 +111,5 @@ X. _ERRAIN
 
 
 31. _ence _he _aying: _f _ou _now _he _nemy _nd _now _ourself, _our _ictory _ill _ot _tand _n _oubt; _f _ou _now _eaven _nd _now _arth, _ou _ay _ake _our _ictory _omplete.
+
 

@@ -1,4 +1,4 @@
-Lv40
+Lv40-mask_long_word
 IX. THE ____ ON THE _____
 
 
@@ -195,4 +195,5 @@ IX. THE ____ ON THE _____
 
 
 45. If a _______ shows __________ in his men but always _______ on his orders being _______ the gain will be _______
+
 

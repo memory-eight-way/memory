@@ -1,4 +1,4 @@
-Lv23
+Lv23-mask_top_letter
 VIII. ____ATION __ ____ICS
 
 
@@ -57,4 +57,5 @@ VIII. ____ATION __ ____ICS
 
 
 14-2. ___ ____ __ _ ____ect __ ____tation.
+
 

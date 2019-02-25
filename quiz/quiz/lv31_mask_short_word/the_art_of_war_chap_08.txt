@@ -1,4 +1,4 @@
-Lv31
+Lv31-mask_short_word
 VIII. _________ __ _______
 
 
@@ -57,4 +57,5 @@ VIII. _________ __ _______
 
 
 14-2. Let them __ _ subject __ meditation.
+
 

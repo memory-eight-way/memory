@@ -1,4 +1,4 @@
-Lv6
+Lv6-mask_consonant
 XII. __E A__A__ __ _I_E
 
 
@@ -78,4 +78,5 @@ XII. __E A__A__ __ _I_E
 
 
 22-2. __i_ i_ __e _a_ _o _ee_ a _ou____ a_ _ea_e a__ a_ a___ i__a__.
+
 

@@ -1,4 +1,4 @@
-Lv9
+Lv9-mask_consonant_symbol
 VIII. _A_IA_IO_ I_ _A__I__
 
 
@@ -57,4 +57,5 @@ VIII. _A_IA_IO_ I_ _A__I__
 
 
 14-2. _e_ __e_ _e a _u__e__ o_ _e_i_a_io__
+
 

@@ -1,4 +1,4 @@
-Lv7
+Lv7-mask_symbol
 XII. THE ATTACK BY FIRE
 
 
@@ -78,4 +78,5 @@ XII. THE ATTACK BY FIRE
 
 
 22-2. This is the way to keep a country at peace and an army intact_
+
 

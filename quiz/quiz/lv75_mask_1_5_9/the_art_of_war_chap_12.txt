@@ -1,4 +1,4 @@
-Lv75
+Lv75-mask_1_5_9
 XII. ___ ATTACK BY FIRE
 
 
@@ -78,4 +78,5 @@ XII. ___ ATTACK BY FIRE
 
 
 22-2. ____ is the way __ keep a country __ peace and an ____ intact.
+
 

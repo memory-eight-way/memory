@@ -1,4 +1,4 @@
-Lv50
+Lv50-mask_letter
 IX. THE _RMY ON THE M_RCH
 
 
@@ -195,4 +195,5 @@ IX. THE _RMY ON THE M_RCH
 
 
 45. If _ gener_l shows confidence in his men but _lw_ys insists on his orders being obeyed, the g_in will be mutu_l.
+
 

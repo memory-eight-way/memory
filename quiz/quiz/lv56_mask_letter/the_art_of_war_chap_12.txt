@@ -1,4 +1,4 @@
-Lv56
+Lv56-mask_letter
 XII. TH_ _TT__K _Y _IR_
 
 
@@ -78,4 +78,5 @@ XII. TH_ _TT__K _Y _IR_
 
 
 22-2. This is th_ w_y to k__p _ _ountry _t p____ _n_ _n _rmy int__t.
+
 

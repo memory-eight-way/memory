@@ -1,4 +1,4 @@
-Lv7
+Lv7-mask_symbol
 X. TERRAIN
 
 
@@ -111,4 +111,5 @@ X. TERRAIN
 
 
 31. Hence the saying_ If you know the enemy and know yourself_ your victory will not stand in doubt_ if you know Heaven and know Earth_ you may make your victory complete_
+
 

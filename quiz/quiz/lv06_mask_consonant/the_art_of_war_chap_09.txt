@@ -1,4 +1,4 @@
-Lv6
+Lv6-mask_consonant
 IX. __E A___ O_ __E _A___
 
 
@@ -195,4 +195,5 @@ IX. __E A___ O_ __E _A___
 
 
 45. I_ a _e_e_a_ __o__ _o__i_e__e i_ _i_ _e_ _u_ a__a__ i__i___ o_ _i_ o__e__ _ei__ o_e_e_, __e _ai_ _i__ _e _u_ua_.
+
 

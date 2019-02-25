@@ -1,4 +1,4 @@
-Lv75
+Lv75-mask_1_5_9
 IX. ___ ARMY ON THE _____
 
 
@@ -195,4 +195,5 @@ IX. ___ ARMY ON THE _____
 
 
 45. __ a general shows __________ in his men ___ always insists on ___ orders being obeyed, ___ gain will be _______
+
 

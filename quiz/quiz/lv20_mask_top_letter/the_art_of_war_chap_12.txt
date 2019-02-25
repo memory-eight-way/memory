@@ -1,4 +1,4 @@
-Lv20
+Lv20-mask_top_letter
 XII. _HE _TTACK _Y _IRE
 
 
@@ -78,4 +78,5 @@ XII. _HE _TTACK _Y _IRE
 
 
 22-2. _his _s _he _ay _o _eep _ _ountry _t _eace _nd _n _rmy _ntact.
+
 

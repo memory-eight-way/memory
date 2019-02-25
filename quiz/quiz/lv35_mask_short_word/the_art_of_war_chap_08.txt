@@ -1,5 +1,5 @@
-Lv35
-VIII. 
+Lv35-mask_short_word
+VIII. VARIATION IN TACTICS
 
 
 1. ___ ___ said: __ war, ___ general receives ___ commands from ___ sovereign, collects ___ army ___ concentrates ___ forces.
@@ -17,7 +17,7 @@ VIII.
 2-4. __ _________ situations, ___ ____ ______ __ __________
 
 
-2-5. 
+2-5. In desperate position, you must fight.
 
 
 3. There ___ roads which must ___ __ followed, armies which must __ ___ attacked, towns which must ___ __ besieged, positions which must ___ __ contested, commands __ ___ sovereign which must ___ __ obeyed.
@@ -57,4 +57,5 @@ VIII.
 
 
 14-2. ___ ____ __ _ _______ __ ___________
+
 
