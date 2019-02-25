@@ -3,6 +3,9 @@
 
 # baseフォルダのファイルを加工して問題に変換する
 """
+    重要：適当に問題を生成しています。
+        大体100近いファイルを一気に作成します。
+        
     ※lv=レベル
     ※加工ファイル名はプログラムに埋め込んでいる（make_quiz関数）
     ※自分にできるところから始める
@@ -13,11 +16,17 @@
     基本的に自分のやりやすいレベルから始める。
         難しかったらレベルを下げてみる。
         全部やる必要はない。いきなり空白のファイルから試してもいい。
+        lv01 がやさしかったら、lv50 まで進んでもいい。
         
     記憶術で記憶してテキストを埋めていくのが基本だけど
     ・単語のスペルを書く能力
     ・英文を推測する能力
     で埋めてもいい。
+
+    ・ヒントの情報がじゃまなとき
+        ・一度、改行を入力してから回答を入力して、その後ヒントを消します。
+        ・もしくはヒントの無いlinenumberonelyを使います。
+    
         
 
     lv01 スペースを消す
@@ -31,58 +40,63 @@
 
     lv05以上は単語のスペルの能力が必要
 
-    lv05 母音を消す
-    lv06 子音を消す
-    lv07 記号を消す
-    lv08 母音＋記号を消す
-    lv09 子音＋記号を消す
+    lv05 母音をマスクする
+    lv06 子音をマスクする
+    lv07 記号をマスクする
+    lv08 母音＋記号をマスクする
+    lv09 子音＋記号をマスクする
     
         母音と子音をそれぞれにかけるなら元の英文を構成できるかも
 
-    lv10 単語の最後の文字を消す
-        lv10-1文字を消す
-        lv11-2文字を消す
-        lv19だとほとんどの単語が消えている
+    lv10 単語の最後の文字をマスクする
+        lv10-1文字をマスクする  <-割とやさしい
+        lv11-2文字をマスクする
+        lv19だとほとんどの単語がマスクされている
 
-    lv20 単語の先頭の文字を消す
-        lv20-1文字消す
-        lv21-2文字消す
-        lv29だとほとんどの単語が消えている
+    lv20 単語の先頭の文字をマスクする
+        lv20-1文字マスクする  <-割とやさしい
+        lv21-2文字マスクする
+        lv29だとほとんどの単語がマスクされている
 
-    lv30 短い単語を消す
-        lv30 短い単語を1単語以上消す
-        lv31 短い単語を2単語以上消す
-        lv39 短い単語を10単語以上消す
+    lv30 短い単語をマスクする
+        lv30 短い単語を1単語以上マスクする
+        lv31 短い単語を2単語以上マスクする
+        lv39 短い単語を10単語以上マスクする
+        ※to the and などの短い単語からマスクしていくので構文の訓練になります。
 
-    lv40 長い単語を消す
-        lv40 長い単語を1単語以上消す
-        lv41 長い単語を2単語以上消す
-        lv49 長い単語を10単語以上消す
+    lv40 長い単語をマスクする
+        lv40 長い単語を1単語以上マスクする
+        lv41 長い単語を2単語以上マスクする
+        lv49 長い単語を10単語以上マスクする
+        ※長い単語の訓練になります。
         
-    ※lv30,lv40台は　消す文字数を算出して、その文字数までの単語を消します。lv40,lv41が同じ結果になっていることもあります。
+    ※lv30,lv40台は　マスクする文字数を算出して、その文字数までの単語をマスクします。lv40,lv41が同じ結果になっていることもあります。
 
-    lv50 aの文字を消す
+    lv50 aの文字をマスクする
         lv05よりも簡単になっている・・・
-    lv51 a,bの文字を消す
-    lv52 a,b,cの文字を消す
-    lv65 a-z の文字を消す
-        ほとんどの文字が消えている
+    lv51 a,bの文字をマスクする
+    lv52 a,b,cの文字をマスクする
+    lv65 a-z の文字をマスクする
+        ほとんどの文字がマスクされています。
+        lv90よりも難しいかもしれません。
+        マスクする文字が増えるごとに、急激に難易度があがります。
+        内容的に続きのレベルにしたかったのでlv50-lv65にまとめました。
         
-    lv66 先頭の単語を残して単語をいくつか消す
-        lv66-69 行 単語を消す量が増えていく
+    lv66 先頭の単語を残して単語をいくつかマスクする
+        lv66-69 行 単語をマスクする量が増えていく
 
 
-    lv70 偶数番の単語を消す
-    lv71 奇数番の単語を消す
-        lv30台、lv40台でほとんど消えているケースよりもこちらのほうがやさしいかも
+    lv70 偶数番の単語をマスクする
+    lv71 奇数番の単語をマスクする
+        lv30台、lv40台でほとんどマスクされているケースよりもこちらのほうがやさしいかもしれません。
         lv70,lv71　を組み合わせると元の文章が構成できる
     
-    lv72 1,5,9 4n+1 の単語だけを残して単語を消す
-    lv73 1,9,17 8n+1 の単語だけを残して単語を消す
-    lv74 1,9,17 8n+1 の単語だけを消して、他は残す
-    lv75 1,5,9 4n+1 の単語だけを消して、他は残す
+    lv72 1,5,9 4n+1 の単語だけを残して単語をマスクする
+    lv73 1,9,17 8n+1 の単語だけを残して単語をマスクする
+    lv74 1,9,17 8n+1 の単語だけをマスクして、他は残す
+    lv75 1,5,9 4n+1 の単語だけをマスクして、他は残す
     
-    lv76 1,5,9 4n+1 の単語だけを残して単語を消す
+    lv76 1,5,9 4n+1 の単語だけを残して単語をマスクする
     lv77 lv76の一部を空行にする
         lv77-lv79        
     lv80 先頭の単語のみ
@@ -312,7 +326,7 @@ def proc_txt_lv05_mask_vowel(lines,lv):
     """
     lv05以上は単語のスペルの能力が必要
 
-    lv05 母音を消す
+    lv05 母音をマスクする
     """
     w_ret=list()
     
@@ -330,7 +344,7 @@ def proc_txt_lv05_mask_vowel(lines,lv):
     
 def proc_txt_lv06_mask_consonant(lines,lv):
     """
-    lv06 子音を消す
+    lv06 子音をマスクする
     """
     w_ret=list()
     
@@ -348,7 +362,7 @@ def proc_txt_lv06_mask_consonant(lines,lv):
     
 def proc_txt_lv07_mask_symbol(lines,lv):
     """
-    lv07 記号を消す
+    lv07 記号をマスクする
     """
     w_ret=list()
     
@@ -367,7 +381,7 @@ def proc_txt_lv07_mask_symbol(lines,lv):
     
 def proc_txt_lv08_mask_vowel_symbol(lines,lv):
     """
-    lv08 母音＋記号を消す
+    lv08 母音＋記号をマスクする
     """
     w_ret=list()
     
@@ -386,7 +400,7 @@ def proc_txt_lv08_mask_vowel_symbol(lines,lv):
     
 def proc_txt_lv09_mask_consonant_symbol(lines,lv):
     """
-    lv09 子音＋記号を消す
+    lv09 子音＋記号をマスクする
     """
     w_ret=list()
     
@@ -427,10 +441,10 @@ def proc_line_mask_top_letter(line,wdelcnt):
     
 def proc_txt_lv10_19_mask_last_letter(lines,lv):
     """
-        lv10 単語の最後の文字を消す
-        lv10-1文字を消す
-        lv11-2文字を消す
-        lv19だとほとんどの単語が消えている
+        lv10 単語の最後の文字をマスクする
+        lv10-1文字をマスクする
+        lv11-2文字をマスクする
+        lv19だとほとんどの単語がマスクされている
     """
     w_ret=list()
     
@@ -448,10 +462,10 @@ def proc_txt_lv10_19_mask_last_letter(lines,lv):
     
 def proc_txt_lv20_29_mask_top_letter(lines,lv):
     """
-    lv20 単語の先頭の文字を消す
-        lv20-1文字消す
-        lv21-2文字消す
-        lv29だとほとんどの単語が消えている
+    lv20 単語の先頭の文字をマスクする
+        lv20-1文字マスクする
+        lv21-2文字マスクする
+        lv29だとほとんどの単語がマスクされている
     """
 
     w_ret=list()
@@ -469,10 +483,10 @@ def proc_txt_lv20_29_mask_top_letter(lines,lv):
         
 def proc_line_mask_short_word (line,lv,slv):
     """
-    lv30 短い単語を消す
-        lv30 短い単語を1単語以上消す
-        lv31 短い単語を2単語以上消す
-        lv39 短い単語を10単語以上消す
+    lv30 短い単語をマスクする
+        lv30 短い単語を1単語以上マスクする
+        lv31 短い単語を2単語以上マスクする
+        lv39 短い単語を10単語以上マスクする
     """
 
     di_len=make_len_dict(line)
@@ -483,7 +497,7 @@ def proc_line_mask_short_word (line,lv,slv):
     w_del_len=0
     for wchklen in wlenkeys:
         wwordcounter=wwordcounter+di_len[wchklen]
-        if wwordcounter>w_del_count:
+        if wwordcounter>=w_del_count:
             w_del_len=wchklen
             break
     #if w_del_len==0:
@@ -533,7 +547,7 @@ def proc_line_mask_long_word(line,lv,slv):
     w_del_len=0
     for wchklen in wlenkeys:
         wwordcounter=wwordcounter+di_len[wchklen]
-        if wwordcounter>w_del_count:
+        if wwordcounter>=w_del_count:
             w_del_len=wchklen
             break
     ##if w_del_len==0:
@@ -550,10 +564,10 @@ def proc_line_mask_long_word(line,lv,slv):
     
 def proc_txt_lv40_49_mask_long_word(lines,lv):
     """
-    lv40 先頭の単語は残して、長い単語を消す
-        lv40 長い単語を1単語以上消す
-        lv41 長い単語を2単語以上消す
-        lv49 長い単語を10単語以上消す
+    lv40 先頭の単語は残して、長い単語をマスクする
+        lv40 長い単語を1単語以上マスクする
+        lv41 長い単語を2単語以上マスクする
+        lv49 長い単語を10単語以上マスクする
     """
 
 
@@ -581,10 +595,10 @@ def proc_line_mask(line,w_mask_char):
     
 def proc_txt_lv50_65_mask_letter_abc(lines,lv):
     """
-    lv50 aの文字を消す
+    lv50 aの文字をマスクする
         lv05よりも簡単になっている・・・
-    lv51 a,bの文字を消す
-    lv65 a-z の文字を消す
+    lv51 a,bの文字をマスクする
+    lv65 a-z の文字をマスクする
     """
 
     w_ret=list()
@@ -620,8 +634,8 @@ def proc_line_word_mask(line,lv,slv):
 def proc_txt_lv66_69_mask_word(lines,lv):
     """
     
-    lv66 先頭の単語を残して単語をいくつか消す
-        lv66-69 行 単語を消す量が増えていく
+    lv66 先頭の単語を残して単語をいくつかマスクする
+        lv66-69 行 単語をマスクする量が増えていく
     """
 
     w_ret=list()
@@ -639,8 +653,8 @@ def proc_txt_lv66_69_mask_word(lines,lv):
 def proc_txt_lv70_even_word(lines,lv):
 
     """
-    lv70 偶数番の単語を消す
-        lv30台、lv40台でほとんど消えているケースよりもこちらのほうがやさしいかも
+    lv70 偶数番の単語をマスクする
+        lv30台、lv40台でほとんどマスクされているケースよりもこちらのほうがやさしいかも
     """
 
     w_ret=list()
@@ -671,7 +685,7 @@ def proc_line_even_word(line):
     
 def proc_txt_lv71_odd_word(lines,lv):
     """
-    lv71 奇数番の単語を消す
+    lv71 奇数番の単語をマスクする
     """
     w_ret=list()
     
@@ -701,7 +715,7 @@ def proc_line_odd_word(line):
     
 def proc_txt_lv72_word_1_5_9(lines,lv):
     """
-    lv72 1,5,9 4n+1 の単語だけを残して単語を消す
+    lv72 1,5,9 4n+1 の単語だけを残して単語をマスクする
     """
     w_ret=list()
     
@@ -719,7 +733,7 @@ def proc_txt_lv72_word_1_5_9(lines,lv):
     
 def proc_txt_lv73_word_1_9_17(lines,lv):
     """
-    lv73 1,9,17 8n+1 の単語だけを残して単語を消す
+    lv73 1,9,17 8n+1 の単語だけを残して単語をマスクする
     """
     w_ret=list()
     
@@ -736,7 +750,7 @@ def proc_txt_lv73_word_1_9_17(lines,lv):
     
 def proc_txt_lv74_mask_word_1_9_17(lines,lv):
     """
-    lv74 1,9,17 8n+1 の単語だけを消して、他は残す
+    lv74 1,9,17 8n+1 の単語だけをマスクして、他は残す
     """
     w_ret=list()
     
@@ -753,7 +767,7 @@ def proc_txt_lv74_mask_word_1_9_17(lines,lv):
     
 def proc_txt_lv75_mask_word_1_5_9(lines,lv):
     """
-    lv75 1,5,9 4n+1 の単語だけを消して、他は残す
+    lv75 1,5,9 4n+1 の単語だけをマスクして、他は残す
     """
     w_ret=list()
     
@@ -822,7 +836,7 @@ def proc_line_1_5_9(line):
 def proc_txt_lv76_79_mask_word_1_5_9_and_empty_line(lines,lv):
     """
 
-    lv76 1,5,9 4n+1 の単語だけを残して単語を消す
+    lv76 1,5,9 4n+1 の単語だけを残して単語をマスクする
         lv77からときどき空行
     """
 

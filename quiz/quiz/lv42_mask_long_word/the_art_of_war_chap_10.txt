@@ -2,40 +2,40 @@ Lv42-mask_long_word
 X. _______
 
 
-1. Sun Tzu said: We may ___________ six kinds of terrain, to wit: (1) __________ ground; (2) __________ ground; (3) ___________ ground; (4) narrow passes; (5) ___________ heights; (6) positions at a great distance from the enemy.
+1. Sun Tzu said: We may ___________ six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) ___________ ground; (4) narrow passes; (5) ___________ heights; (6) positions at a great distance from the enemy.
 
 
 2. ______ which can be ______ _________ by both sides is ______ ___________
 
 
-3-1. With regard to ground of this _______ be before the enemy in _________ the raised and sunny spots, and _________ guard your line of _________
+3-1. With regard to ground of this nature, be before the enemy in _________ the raised and sunny spots, and _________ guard your line of _________
 
 
 3-2. ____ you ____ be ____ to _____ ____ __________
 
 
-4. ______ which can be _________ but is hard to _________ is ______ ___________
+4. Ground which can be _________ but is hard to _________ is called ___________
 
 
-5-1. From a ________ of this _____ if the _____ is ___________ you may _____ _____ and ______ him.
+5-1. From a ________ of this sort, if the enemy is ___________ you may sally forth and ______ him.
 
 
-5-2. But if the enemy is ________ for your _______ and you fail to defeat him, then, return being ___________ ________ will ensue.
+5-2. But if the enemy is ________ for your coming, and you fail to defeat him, then, return being ___________ ________ will ensue.
 
 
 6. When the ________ is such that _______ side will gain by making the first move, it is called ___________ _______
 
 
-7. In a ________ of this sort, even though the enemy should offer us an __________ bait, it will be _________ not to stir forth, but rather to ________ thus ________ the enemy in his turn; then, when part of his army has come out, we may deliver our attack with __________
+7. In a position of this sort, even though the enemy should offer us an __________ bait, it will be _________ not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with __________
 
 
-8. With ______ to ______ _______ if you can ______ them ______ let them be ________ __________ and await the ______ of the ______
+8. With regard to narrow _______ if you can occupy them first, let them be ________ __________ and await the advent of the enemy.
 
 
 9. Should the army _________ you in _________ a pass, do not go after him if the pass is fully ___________ but only if it is weakly ___________
 
 
-10. With regard to ___________ ________ if you are __________ with your __________ you should occupy the raised and sunny spots, and there wait for him to come up.
+10. With regard to ___________ heights, if you are __________ with your __________ you should occupy the raised and sunny spots, and there wait for him to come up.
 
 
 11. If the enemy has ________ them ______ you, do not ______ him, but _______ and try to ______ him away.
@@ -44,7 +44,7 @@ X. _______
 12. If you are ________ at a great ________ from the enemy, and the ________ of the two armies is equal, it is not easy to provoke a battle, and ________ will be to your _____________
 
 
-13-1. _____ six are the __________ _________ with ______
+13-1. These six are the __________ _________ with ______
 
 
 13-2. The _______ who has ________ a ___________ post must be _______ to study them.
@@ -53,19 +53,19 @@ X. _______
 14-1. Now an army is _______ to six _______ ___________ not _______ from _______ _______ but from faults for which the _______ is ____________
 
 
-14-2. These are: (1) _______ (2) ________________ (3) _________ (4) ruin; (5) ________________ (6) rout.
+14-2. These are: (1) Flight; (2) ________________ (3) _________ (4) ruin; (5) ________________ (6) rout.
 
 
 15. Other __________ being equal, if one force is hurled _______ _______ ten times its size, the result will be the flight of the _______
 
 
-16-1. When the ______ ________ are too ______ and their ________ too weak, the ______ is ________________
+16-1. When the common ________ are too strong and their ________ too weak, the result is ________________
 
 
-16-2. When the ________ are too ______ and the ______ ________ too weak, the ______ is _________
+16-2. When the ________ are too strong and the common ________ too weak, the result is _________
 
 
-17. When the higher ________ are angry and ______________ and on meeting the enemy give battle on their own account from a feeling of ___________ before the __________________ can tell whether or not he is in a ________ to fight, the result is ruin.
+17. When the higher officers are angry and ______________ and on meeting the enemy give battle on their own account from a feeling of ___________ before the __________________ can tell whether or not he is in a position to fight, the result is ruin.
 
 
 18. When the general is weak and without __________ when his orders are not clear and _________ when there are no fixes duties assigned to officers and men, and the ranks are formed in a slovenly _________ manner, the result is utter ________________
@@ -83,7 +83,7 @@ X. _______
 22-1. He who knows these things, and in ________ puts his _________ into _________ will win his ________
 
 
-22-2. He who _____ them not, nor _________ _____ will ______ be _________
+22-2. He who knows them not, nor _________ them, will ______ be _________
 
 
 23. If ________ is sure to result in ________ then you must fight, even though the ruler forbid it; if ________ will not result in ________ then you must not fight even at the ruler's ________
@@ -92,10 +92,10 @@ X. _______
 24. The general who ________ without ________ fame and ________ without fearing _________ whose only thought is to protect his country and do good service for his __________ is the jewel of the ________
 
 
-25. Regard your ________ as your _________ and they will follow you into the _______ ________ look upon them as your own _______ sons, and they will stand by you even unto death.
+25. Regard your ________ as your _________ and they will follow you into the deepest ________ look upon them as your own beloved sons, and they will stand by you even unto death.
 
 
-26. If, however, you are __________ but unable to make your _________ felt; _____________ but unable to enforce your _________ and __________ _________ of quelling _________ then your soldiers must be likened to spoilt _________ they are useless for any _________ purpose.
+26. If, however, you are __________ but unable to make your authority felt; _____________ but unable to enforce your commands; and __________ moreover, of quelling disorder: then your soldiers must be likened to spoilt children; they are useless for any practical purpose.
 
 
 27. If we know that our own men are in a _________ to _______ but are _______ that the enemy is not open to _______ we have gone only _______ _______ ________
@@ -107,7 +107,7 @@ X. _______
 29. If we know that the enemy is open to attack, and also know that our men are in a _________ to attack, but are unaware that the nature of the ground makes ________ ______________ we have still gone only halfway towards ________
 
 
-30. Hence the ___________ ________ once in _______ is never ___________ once he has broken camp, he is never at a loss.
+30. Hence the ___________ ________ once in motion, is never ___________ once he has broken camp, he is never at a loss.
 
 
 31. Hence the _______ If you know the enemy and know _________ your _______ will not stand in doubt; if you know Heaven and know Earth, you may make your _______ _________

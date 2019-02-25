@@ -2,7 +2,7 @@ Lv45-mask_long_word
 X. _______
 
 
-1. Sun Tzu said: We may ___________ six kinds of ________ to wit: (1) __________ ground; (2) __________ ground; (3) ___________ ground; (4) narrow passes; (5) ___________ ________ (6) _________ at a great ________ from the enemy.
+1. Sun Tzu said: We may ___________ six kinds of terrain, to wit: (1) __________ ground; (2) __________ ground; (3) ___________ ground; (4) narrow passes; (5) ___________ heights; (6) _________ at a great distance from the enemy.
 
 
 2. ______ _____ can be ______ _________ by both _____ is ______ ___________
@@ -11,10 +11,10 @@ X. _______
 3-1. With ______ to ______ of this _______ be ______ the enemy in _________ the ______ and sunny ______ and _________ guard your line of _________
 
 
-3-2. ____ ___ ____ be ____ to _____ ____ __________
+3-2. ____ you ____ be ____ to _____ ____ __________
 
 
-4. ______ _____ can be _________ but is ____ to _________ is ______ ___________
+4. ______ _____ can be _________ but is hard to _________ is ______ ___________
 
 
 5-1. From a ________ of this _____ if the _____ is ___________ you may _____ _____ and ______ him.
@@ -23,16 +23,16 @@ X. _______
 5-2. But if the enemy is ________ for your _______ and you fail to ______ him, then, ______ being ___________ ________ will ______
 
 
-6. When the ________ is such that _______ side will gain by ______ the _____ _____ it is ______ ___________ _______
+6. When the ________ is such that _______ side will gain by ______ the first move, it is ______ ___________ _______
 
 
-7. In a ________ of this sort, even though the enemy should offer us an __________ bait, it will be _________ not to stir forth, but rather to ________ thus ________ the enemy in his turn; then, when part of his army has come out, we may _______ our attack with __________
+7. In a ________ of this sort, even though the enemy should offer us an __________ bait, it will be _________ not to stir forth, but rather to ________ thus ________ the enemy in his turn; then, when part of his army has come out, we may deliver our attack with __________
 
 
 8. With ______ to ______ _______ if you can ______ them ______ let them be ________ __________ and await the ______ of the ______
 
 
-9. ______ the army _________ you in _________ a _____ do not go _____ him if the pass is _____ ___________ but only if it is ______ ___________
+9. ______ the army _________ you in _________ a pass, do not go after him if the pass is fully ___________ but only if it is ______ ___________
 
 
 10. With ______ to ___________ ________ if you are __________ with your __________ you ______ ______ the ______ and sunny ______ and there wait for him to come up.
@@ -47,7 +47,7 @@ X. _______
 13-1. _____ ___ ___ ___ __________ _________ ____ ______
 
 
-13-2. The _______ who has ________ a ___________ ____ ____ be _______ to _____ _____
+13-2. The _______ who has ________ a ___________ post must be _______ to _____ _____
 
 
 14-1. Now an army is _______ to six _______ ___________ not _______ from _______ _______ but from faults for which the _______ is ____________
@@ -59,10 +59,10 @@ X. _______
 15. Other __________ being ______ if one force is ______ _______ _______ ten times its size, the ______ will be the ______ of the _______
 
 
-16-1. When the ______ ________ are too ______ and _____ ________ too _____ the ______ is ________________
+16-1. When the ______ ________ are too ______ and their ________ too weak, the ______ is ________________
 
 
-16-2. When the ________ are too ______ and the ______ ________ too _____ the ______ is _________
+16-2. When the ________ are too ______ and the ______ ________ too weak, the ______ is _________
 
 
 17. When the higher ________ are angry and ______________ and on _______ the enemy give battle on their own _______ from a _______ of ___________ before the __________________ can tell _______ or not he is in a ________ to fight, the result is ruin.
@@ -74,7 +74,7 @@ X. _______
 19. When a ________ unable to ________ the enemy's _________ allows an ________ force to engage a larger one, or hurls a weak __________ against a ________ one, and ________ to place picked ________ in the front rank, the result must be rout.
 
 
-20. _____ are six ways of ________ _______ _____ must be _________ _____ by the _______ who has ________ a ___________ _____
+20. These are six ways of ________ _______ which must be _________ noted by the _______ who has ________ a ___________ post.
 
 
 21. The natural formation of the country is the soldier's best ally; but a power of __________ the __________ of ___________ the forces of victory, and of shrewdly ___________ _____________ dangers and __________ ___________ the test of a great general.
@@ -86,10 +86,10 @@ X. _______
 22-2. He who _____ ____ ____ nor _________ _____ ____ ______ be _________
 
 
-23. If ________ is sure to ______ in ________ then you must ______ even ______ the ruler ______ it; if ________ will not ______ in ________ then you must not fight even at the _______ ________
+23. If ________ is sure to result in ________ then you must fight, even though the ruler forbid it; if ________ will not result in ________ then you must not fight even at the _______ ________
 
 
-24. The _______ who ________ _______ ________ fame and ________ _______ _______ _________ whose only _______ is to _______ his _______ and do good _______ for his __________ is the jewel of the ________
+24. The general who ________ without ________ fame and ________ without fearing _________ whose only thought is to protect his country and do good service for his __________ is the jewel of the ________
 
 
 25. ______ your ________ as your _________ and they will ______ you into the _______ ________ look upon them as your own _______ sons, and they will stand by you even unto ______
