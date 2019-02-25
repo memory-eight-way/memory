@@ -3,16 +3,21 @@
 
 # baseフォルダのファイルを加工して問題に変換する
 """
+    ※lv=レベル
+    ※加工ファイル名はプログラムに埋め込んでいる（make_quiz関数）
+    ※自分にできるところから始める
+    
     基本的にはlv が大きいほど消えている量が多くて難しくなる。
-    lvにが違うけど、同じ結果になっていたりするかもしれない。
+    lvが違うけど、同じ結果になっていたりするかもしれない。
 
-    基本的に自分のやりやすいレベルから始める
-        難しかったらレベルを下げてみる
+    基本的に自分のやりやすいレベルから始める。
+        難しかったらレベルを下げてみる。
+        全部やる必要はない。いきなり空白のファイルから試してもいい。
         
     記憶術で記憶してテキストを埋めていくのが基本だけど
     ・単語のスペルを書く能力
     ・英文を推測する能力
-    で埋めてもいい
+    で埋めてもいい。
         
 
     lv01 スペースを消す
@@ -59,8 +64,10 @@
     lv50 aの文字を消す
         lv05よりも簡単になっている・・・
     lv51 a,bの文字を消す
+    lv52 a,b,cの文字を消す
     lv65 a-z の文字を消す
-    
+        ほとんどの文字が消えている
+        
     lv66 先頭の単語を残して単語をいくつか消す
         lv66-69 行 単語を消す量が増えていく
 
@@ -104,8 +111,12 @@ import os
 import random
 
 # MASK_CHAR:マスクに使用する文字 
+
 # 空白にするとマスクが空白になる
 # MASK_CHAR=" "
+
+# ""にするとマスクではなく削除になる
+# MASK_CHAR=""
 
 MASK_CHAR="_"
 
@@ -199,7 +210,30 @@ def proc_txt_lv01_del_space(lines,lv):
         else:
             w_ret.append(line)
     return w_ret
-    
+
+def dum_rand(max_rnd,i):
+    """乱数っぽいなにか"""
+    return ((max_rnd * 3+5 ) *7+i*2) % max_rnd 
+
+def my_shuffle(wlist):
+    if False:
+        #　動かすたびにlv02,lv03,lv04の結果がランダムになる
+        # githubにアップする結果が毎回変わるので固定にするために擬似的なシャッフルを作成
+        w_new_list=wlist[:]
+        random.shuffle(w_new_list)
+        return w_new_list
+    else:
+        #　lv02,lv03,lv04の結果が固定になる。ランダムではないシャッフル
+        w_tmp_list=wlist[:]
+        
+        for i in range(0,len(w_tmp_list)):
+            j=dum_rand(len(w_tmp_list),i)
+            tmp=w_tmp_list[i]
+            w_tmp_list[i]=w_tmp_list[j]
+            w_tmp_list[j]=tmp
+            #print("i,j:",i,j)
+            #print("w_tmp_list:",w_tmp_list)
+        return w_tmp_list
     
 def proc_txt_lv02_swap_line(lines,lv):
     """
@@ -217,7 +251,7 @@ def proc_txt_lv02_swap_line(lines,lv):
                 w_new_ele=list()
                 w_new_ele.append(wele[0])
                 w_shuffle_ele=wele[1:-1]
-                random.shuffle(w_shuffle_ele ) #入れ替え
+                w_shuffle_ele=my_shuffle(w_shuffle_ele ) #入れ替え
                 w_new_ele.extend(w_shuffle_ele)
                 w_new_ele.append(wele[-1])
                 wele=w_new_ele        
@@ -241,9 +275,9 @@ def proc_txt_lv03_swap_line(lines,lv):
             if len(wele)>=3:
                 w_new_ele=list()
                 w_new_ele.append(wele[0])
-                #w_new_ele.append(random.shuffle( wele[1:])) # 入れ替え
+                #w_new_ele.append(my_shuffle( wele[1:])) # 入れ替え
                 w_shuffle_ele=wele[1:]
-                random.shuffle(w_shuffle_ele )
+                w_shuffle_ele=my_shuffle(w_shuffle_ele )
                 w_new_ele.extend(w_shuffle_ele)
                 wele=w_new_ele
             
@@ -264,7 +298,7 @@ def proc_txt_lv04_swap_line(lines,lv):
         line_info=line_to_number_body_pair(line)
         if is_memory_line(line_info):
             wele=line_info[1].split(" ")
-            random.shuffle(wele)    # 入れ替え
+            wele=my_shuffle(wele)    # 入れ替え
             
             w_new_line=" ".join(wele)
             w_new_line=line_info[0]+w_new_line
