@@ -136,7 +136,7 @@ def make_quiz_line(lines,lv):
     return ("mask_word_"+chk_char+"_end",proc_txt_mask_word(lines,lv))
 
     
-def make_quiz_file(w_dir_root,dum_param):
+def make_quiz_file(w_dir_root,w_file_suffix):
     """
     フォルダの単語リストを作成
     """
@@ -151,7 +151,7 @@ def make_quiz_file(w_dir_root,dum_param):
         #for lv in range(66,70):
         for lv in range(1,27):
                 w_chap_quiz=make_quiz_line(lines,lv)
-                write_quiz_file(w_chap_quiz,lv,w_chap_file_name)
+                write_quiz_file(w_chap_quiz,lv,w_chap_file_name,w_file_suffix)
 
 def make_quiz_holmes():
     
