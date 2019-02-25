@@ -934,7 +934,7 @@ def proc_txt_lv99_empty_file(lines,lv):
 
 
 
-def write_quiz_file(li_quiz,lv,w_chap_file_name):    
+def write_quiz_file(li_quiz,lv,w_chap_file_name,w_quiz_dir_suffix=""):    
     """
     """
     
@@ -943,7 +943,7 @@ def write_quiz_file(li_quiz,lv,w_chap_file_name):
         slv="0"+slv
     f_suffix,w_li_quiz_text=li_quiz
     
-    fn_quiz="./quiz/lv"+slv+"_"+f_suffix+"/"+w_chap_file_name
+    fn_quiz="./quiz"+w_quiz_dir_suffix+"/lv"+slv+"_"+f_suffix+"/"+w_chap_file_name
     fn_quiz_dir=os.path.dirname(fn_quiz)
     makedirs(fn_quiz_dir)
     
@@ -1040,11 +1040,40 @@ def make_quiz_file(w_dir_root,w_file_suffix):
         #for lv in range(66,70):
         for lv in range(1,99):
             w_chap_quiz=make_quiz_line(lines,lv)
-            write_quiz_file(w_chap_quiz,lv,w_chap_file_name)
+            write_quiz_file(w_chap_quiz,lv,w_chap_file_name,w_file_suffix)
+
+def make_quiz_holmes():
+    
+    make_quiz_file("../holmes/base/SH_01_A_Study_in_Scarlet","SH_01")
+
+    make_quiz_file("../holmes/base/SH_02_The_Sign_of_the_Four","SH_02")
+
+    make_quiz_file("../holmes/base/SH_03_The_Hound_of_the_Baskervilles","SH_03")
+
+    make_quiz_file("../holmes/base/SH_04_The_Valley_of_Fear","SH_04")
+
+    make_quiz_file("../holmes/base/SH_05_The_Adventures_of_Sherlock_Holmes","SH_05")
+
+    make_quiz_file("../holmes/base/SH_06_The_Memoirs_of_Sherlock_Holmes","SH_06")
+
+    make_quiz_file("../holmes/base/SH_07_The_Return_of_Sherlock_Holmes","SH_07")
+
+    make_quiz_file("../holmes/base/SH_08_His_Last_Bow","SH_08")
+
+
     
 def make_quiz():
-    make_quiz_file("../TheArtOfWar/base","TheArtOfWar")
+    #make_quiz_file("../TheArtOfWar/base","TheArtOfWar")
+    make_quiz_file("../TheArtOfWar/base","")
+    
+
+
+    
 
 
 if __name__=="__main__":
+    # The Art Of War
     make_quiz()
+    
+    # Holmes 
+    #make_quiz_holmes()
