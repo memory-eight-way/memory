@@ -1,115 +1,77 @@
 Lv10-mask_last_letter
 X. TERRAI_
 
-
 1. Su_ Tz_ said_ W_ ma_ distinguis_ si_ kind_ o_ terrain_ t_ wit_ (1_ Accessibl_ ground_ (2_ entanglin_ ground_ (3_ temporizin_ ground_ (4_ narro_ passes_ (5_ precipitou_ heights_ (6_ position_ a_ _ grea_ distanc_ fro_ th_ enemy_
-
 
 2. Groun_ whic_ ca_ b_ freel_ traverse_ b_ bot_ side_ i_ calle_ accessible_
 
-
 3-1. Wit_ regar_ t_ groun_ o_ thi_ nature_ b_ befor_ th_ enem_ i_ occupyin_ th_ raise_ an_ sunn_ spots_ an_ carefull_ guar_ you_ lin_ o_ supplies_
-
 
 3-2. The_ yo_ wil_ b_ abl_ t_ figh_ wit_ advantage_
 
-
 4. Groun_ whic_ ca_ b_ abandone_ bu_ i_ har_ t_ re-occup_ i_ calle_ entangling_
-
 
 5-1. Fro_ _ positio_ o_ thi_ sort_ i_ th_ enem_ i_ unprepared_ yo_ ma_ sall_ fort_ an_ defea_ him_
 
-
 5-2. Bu_ i_ th_ enem_ i_ prepare_ fo_ you_ coming_ an_ yo_ fai_ t_ defea_ him_ then_ retur_ bein_ impossible_ disaste_ wil_ ensue_
-
 
 6. Whe_ th_ positio_ i_ suc_ tha_ neithe_ sid_ wil_ gai_ b_ makin_ th_ firs_ move_ i_ i_ calle_ temporizin_ ground_
 
-
 7. I_ _ positio_ o_ thi_ sort_ eve_ thoug_ th_ enem_ shoul_ offe_ u_ a_ attractiv_ bait_ i_ wil_ b_ advisabl_ no_ t_ sti_ forth_ bu_ rathe_ t_ retreat_ thu_ enticin_ th_ enem_ i_ hi_ turn_ then_ whe_ par_ o_ hi_ arm_ ha_ com_ out_ w_ ma_ delive_ ou_ attac_ wit_ advantage_
-
 
 8. Wit_ regar_ t_ narro_ passes_ i_ yo_ ca_ occup_ the_ first_ le_ the_ b_ strongl_ garrisone_ an_ awai_ th_ adven_ o_ th_ enemy_
 
-
 9. Shoul_ th_ arm_ forestal_ yo_ i_ occupyin_ _ pass_ d_ no_ g_ afte_ hi_ i_ th_ pas_ i_ full_ garrisoned_ bu_ onl_ i_ i_ i_ weakl_ garrisoned_
-
 
 10. Wit_ regar_ t_ precipitou_ heights_ i_ yo_ ar_ beforehan_ wit_ you_ adversary_ yo_ shoul_ occup_ th_ raise_ an_ sunn_ spots_ an_ ther_ wai_ fo_ hi_ t_ com_ up_
 
-
 11. I_ th_ enem_ ha_ occupie_ the_ befor_ you_ d_ no_ follo_ him_ bu_ retrea_ an_ tr_ t_ entic_ hi_ away_
-
 
 12. I_ yo_ ar_ situate_ a_ _ grea_ distanc_ fro_ th_ enemy_ an_ th_ strengt_ o_ th_ tw_ armie_ i_ equal_ i_ i_ no_ eas_ t_ provok_ _ battle_ an_ fightin_ wil_ b_ t_ you_ disadvantage_
 
-
 13-1. Thes_ si_ ar_ th_ principle_ connecte_ wit_ Earth_
-
 
 13-2. Th_ genera_ wh_ ha_ attaine_ _ responsibl_ pos_ mus_ b_ carefu_ t_ stud_ them_
 
-
 14-1. No_ a_ arm_ i_ expose_ t_ si_ severa_ calamities_ no_ arisin_ fro_ natura_ causes_ bu_ fro_ fault_ fo_ whic_ th_ genera_ i_ responsible_
-
 
 14-2. Thes_ are_ (1_ Flight_ (2_ insubordination_ (3_ collapse_ (4_ ruin_ (5_ disorganization_ (6_ rout_
 
-
 15. Othe_ condition_ bein_ equal_ i_ on_ forc_ i_ hurle_ agains_ anothe_ te_ time_ it_ size_ th_ resul_ wil_ b_ th_ fligh_ o_ th_ former_
-
 
 16-1. Whe_ th_ commo_ soldier_ ar_ to_ stron_ an_ thei_ officer_ to_ weak_ th_ resul_ i_ insubordination_
 
-
 16-2. Whe_ th_ officer_ ar_ to_ stron_ an_ th_ commo_ soldier_ to_ weak_ th_ resul_ i_ collapse_
-
 
 17. Whe_ th_ highe_ officer_ ar_ angr_ an_ insubordinate_ an_ o_ meetin_ th_ enem_ giv_ battl_ o_ thei_ ow_ accoun_ fro_ _ feelin_ o_ resentment_ befor_ th_ commander-in-chie_ ca_ tel_ whethe_ o_ no_ h_ i_ i_ _ positio_ t_ fight_ th_ resul_ i_ ruin_
 
-
 18. Whe_ th_ genera_ i_ wea_ an_ withou_ authority_ whe_ hi_ order_ ar_ no_ clea_ an_ distinct_ whe_ ther_ ar_ n_ fixe_ dutie_ assigne_ t_ officer_ an_ men_ an_ th_ rank_ ar_ forme_ i_ _ slovenl_ haphazar_ manner_ th_ resul_ i_ utte_ disorganization_
-
 
 19. Whe_ _ general_ unabl_ t_ estimat_ th_ enemy'_ strength_ allow_ a_ inferio_ forc_ t_ engag_ _ large_ one_ o_ hurl_ _ wea_ detachmen_ agains_ _ powerfu_ one_ an_ neglect_ t_ plac_ picke_ soldier_ i_ th_ fron_ rank_ th_ resul_ mus_ b_ rout_
 
-
 20. Thes_ ar_ si_ way_ o_ courtin_ defeat_ whic_ mus_ b_ carefull_ note_ b_ th_ genera_ wh_ ha_ attaine_ _ responsibl_ post_
-
 
 21. Th_ natura_ formatio_ o_ th_ countr_ i_ th_ soldier'_ bes_ ally_ bu_ _ powe_ o_ estimatin_ th_ adversary_ o_ controllin_ th_ force_ o_ victory_ an_ o_ shrewdl_ calculatin_ difficulties_ danger_ an_ distances_ constitute_ th_ tes_ o_ _ grea_ general_
 
-
 22-1. H_ wh_ know_ thes_ things_ an_ i_ fightin_ put_ hi_ knowledg_ int_ practice_ wil_ wi_ hi_ battles_
-
 
 22-2. H_ wh_ know_ the_ not_ no_ practice_ them_ wil_ surel_ b_ defeated_
 
-
 23. I_ fightin_ i_ sur_ t_ resul_ i_ victory_ the_ yo_ mus_ fight_ eve_ thoug_ th_ rule_ forbi_ it_ i_ fightin_ wil_ no_ resul_ i_ victory_ the_ yo_ mus_ no_ figh_ eve_ a_ th_ ruler'_ bidding_
-
 
 24. Th_ genera_ wh_ advance_ withou_ covetin_ fam_ an_ retreat_ withou_ fearin_ disgrace_ whos_ onl_ though_ i_ t_ protec_ hi_ countr_ an_ d_ goo_ servic_ fo_ hi_ sovereign_ i_ th_ jewe_ o_ th_ kingdom_
 
-
 25. Regar_ you_ soldier_ a_ you_ children_ an_ the_ wil_ follo_ yo_ int_ th_ deepes_ valleys_ loo_ upo_ the_ a_ you_ ow_ belove_ sons_ an_ the_ wil_ stan_ b_ yo_ eve_ unt_ death_
-
 
 26. If_ however_ yo_ ar_ indulgent_ bu_ unabl_ t_ mak_ you_ authorit_ felt_ kind-hearted_ bu_ unabl_ t_ enforc_ you_ commands_ an_ incapable_ moreover_ o_ quellin_ disorder_ the_ you_ soldier_ mus_ b_ likene_ t_ spoil_ children_ the_ ar_ useles_ fo_ an_ practica_ purpose_
 
-
 27. I_ w_ kno_ tha_ ou_ ow_ me_ ar_ i_ _ conditio_ t_ attack_ bu_ ar_ unawar_ tha_ th_ enem_ i_ no_ ope_ t_ attack_ w_ hav_ gon_ onl_ halfwa_ toward_ victory_
-
 
 28. I_ w_ kno_ tha_ th_ enem_ i_ ope_ t_ attack_ bu_ ar_ unawar_ tha_ ou_ ow_ me_ ar_ no_ i_ _ conditio_ t_ attack_ w_ hav_ gon_ onl_ halfwa_ toward_ victory_
 
-
 29. I_ w_ kno_ tha_ th_ enem_ i_ ope_ t_ attack_ an_ als_ kno_ tha_ ou_ me_ ar_ i_ _ conditio_ t_ attack_ bu_ ar_ unawar_ tha_ th_ natur_ o_ th_ groun_ make_ fightin_ impracticable_ w_ hav_ stil_ gon_ onl_ halfwa_ toward_ victory_
-
 
 30. Henc_ th_ experience_ soldier_ onc_ i_ motion_ i_ neve_ bewildered_ onc_ h_ ha_ broke_ camp_ h_ i_ neve_ a_ _ loss_
 
-
 31. Henc_ th_ saying_ I_ yo_ kno_ th_ enem_ an_ kno_ yourself_ you_ victor_ wil_ no_ stan_ i_ doubt_ i_ yo_ kno_ Heave_ an_ kno_ Earth_ yo_ ma_ mak_ you_ victor_ complete_
-
 

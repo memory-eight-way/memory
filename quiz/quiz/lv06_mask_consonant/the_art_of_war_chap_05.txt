@@ -1,89 +1,60 @@
 Lv6-mask_consonant
 V. E_E___
 
-
 1. _u_ __u _ai_: __e _o___o_ o_ a _a__e _o__e i_ __e _a_e __i__i__e a_ __e _o___o_ o_ a _e_ _e_: i_ i_ _e_e__ a _ue__io_ o_ _i_i_i__ u_ __ei_ _u__e__.
-
 
 2. _i___i__ _i__ a _a__e a___ u__e_ _ou_ _o__a__ i_ _o_i_e _i__e_e__ __o_ _i___i__ _i__ a __a__ o_e: i_ i_ _e_e__ a _ue__io_ o_ i___i_u_i__ _i___ a__ _i__a__.
 
-
 3. _o e__u_e __a_ _ou_ __o_e _o__ _a_ _i____a__ __e __u__ o_ __e e_e__'_ a__a__ a__ _e_ai_ u___a_e_-- __i_ i_ e__e__e_ __ _a_eu_e__ _i_e__ a__ i__i_e__.
-
 
 4. __a_ __e i__a__ o_ _ou_ a___ _a_ _e _i_e a __i____o_e _a__e_ a_ai___ a_ e__-- __i_ i_ e__e__e_ __ __e __ie__e o_ _ea_ _oi___ a__ ___o__.
 
-
 5. I_ a__ _i___i__, __e _i_e__ _e__o_ _a_ _e u_e_ _o_ _oi_i__ _a___e, _u_ i__i_e__ _e__o__ _i__ _e _ee_e_ i_ o__e_ _o _e_u_e _i__o__.
-
 
 6. I__i_e__ _a__i__, e__i_ie____ a___ie_, a_e i_e__au__i__e a_ _ea_e_ a__ Ea___, u_e__i__ a_ __e __o_ o_ _i_e__ a__ ___ea__; _i_e __e _u_ a__ _oo_, __e_ e__ _u_ _o _e_i_ a_e_; _i_e __e _ou_ _ea_o__, __e_ _a__ a_a_ _o _e_u__ o__e _o_e.
 
-
 7. __e_e a_e _o_ _o_e __a_ _i_e _u_i_a_ _o_e_, _e_ __e _o__i_a_io__ o_ __e_e _i_e _i_e _i_e _o _o_e _e_o_ie_ __a_ _a_ e_e_ _e _ea__.
-
 
 8. __e_e a_e _o_ _o_e __a_ _i_e __i_a__ _o_o__ (__ue, _e__o_, _e_, __i_e, a__ __a__), _e_ i_ _o__i_a_io_ __e_ __o_u_e _o_e _ue_ __a_ _a_ e_e_ _ee_ _ee_.
 
-
 9. __e_e a_e _o_ _o_e __a_ _i_e _a__i_a_ _a__e_ (_ou_, a__i_, _a__, __ee_, _i__e_), _e_ _o__i_a_io__ o_ __e_ _ie__ _o_e __a_o__ __a_ _a_ e_e_ _e _a__e_.
-
 
 10. I_ _a___e, __e_e a_e _o_ _o_e __a_ __o _e__o__ o_ a__a__-- __e _i_e__ a__ __e i__i_e__; _e_ __e_e __o i_ _o__i_a_io_ _i_e _i_e _o a_ e___e__ _e_ie_ o_ _a_eu_e__.
 
-
 11-1. __e _i_e__ a__ __e i__i_e__ _ea_ o_ _o ea__ o__e_ i_ _u__.
-
 
 11-2. I_ i_ _i_e _o_i__ i_ a _i___e-- _ou _e_e_ _o_e _o a_ e__.
 
-
 11-3. __o _a_ e__au__ __e _o__i_i_i_ie_ o_ __ei_ _o__i_a_io_?
-
 
 12. __e o__e_ o_ __oo__ i_ _i_e __e _u__ o_ a _o__e__ __i__ _i__ e_e_ _o__ __o_e_ a_o__ i_ i__ _ou__e.
 
-
 13. __e _ua_i__ o_ _e_i_io_ i_ _i_e __e _e__-_i_e_ __oo_ o_ a _a__o_ __i__ e_a__e_ i_ _o ___i_e a__ _e___o_ i__ _i__i_.
-
 
 14. __e_e_o_e __e _oo_ _i___e_ _i__ _e _e__i__e i_ _i_ o__e_, a__ __o___ i_ _i_ _e_i_io_.
 
-
 15. E_e___ _a_ _e _i_e_e_ _o __e _e__i__ o_ a __o___o_; _e_i_io_, _o __e _e_ea_i__ o_ a __i__e_.
-
 
 16. A_i_ __e _u__oi_ a__ _u_u__ o_ _a___e, __e_e _a_ _e _ee_i__ _i_o__e_ a__ _e_ _o _ea_ _i_o__e_ a_ a__; a_i_ _o__u_io_ a__ __ao_, _ou_ a__a_ _a_ _e _i__ou_ _ea_ o_ _ai_, _e_ i_ _i__ _e __oo_ a_ai___ _e_ea_.
 
-
 17. _i_u_a_e_ _i_o__e_ _o__u_a_e_ _e__e__ _i__i__i_e, _i_u_a_e_ _ea_ _o__u_a_e_ _ou_a_e; _i_u_a_e_ _ea__e__ _o__u_a_e_ ___e____.
-
 
 18. _i_i__ o__e_ _e_ea__ __e __oa_ o_ _i_o__e_ i_ _i____ a _ue__io_ o_ _u__i_i_io_; _o__ea_i__ _ou_a_e u__e_ a __o_ o_ _i_i_i__ __e_u__o_e_ a _u__ o_ _a_e__ e_e___; _a__i__ ___e____ _i__ _ea__e__ i_ _o _e e__e__e_ __ _a__i_a_ _i__o_i_io__.
 
-
 19-1. __u_ o_e __o i_ __i___u_ a_ _ee_i__ __e e_e__ o_ __e _o_e _ai__ai__ _e_ei__u_ a__ea_a__e_, a__o__i__ _o __i__ __e e_e__ _i__ a__.
-
 
 19-2. _e _a__i_i_e_ _o_e__i__, __a_ __e e_e__ _a_ __a___ a_ i_.
 
-
 20. __ _o__i__ ou_ _ai__, _e _ee__ _i_ o_ __e _a___; __e_ _i__ a _o__ o_ _i__e_ _e_ _e _ie_ i_ _ai_ _o_ _i_.
-
 
 21-1. __e __e_e_ _o__a_a__ _oo__ _o __e e__e__ o_ _o__i_e_ e_e___, a__ _oe_ _o_ _e_ui_e _oo _u__ __o_ i__i_i_ua__.
 
-
 21-2. _e__e _i_ a_i_i__ _o _i__ ou_ __e _i___ _e_ a__ u_i_i_e _o__i_e_ e_e___.
-
 
 22-1. __e_ _e u_i_i_e_ _o__i_e_ e_e___, _i_ _i___i__ _e_ _e_o_e a_ i_ _e_e _i_e u__o _o__i__ _o__ o_ __o_e_.
 
-
 22-2. _o_ i_ i_ __e _a_u_e o_ a _o_ o_ __o_e _o _e_ai_ _o_io__e__ o_ _e_e_ __ou__, a__ _o _o_e __e_ o_ a __o_e; i_ _ou_-_o__e_e_, _o _o_e _o a __a____i__, _u_ i_ _ou__-__a_e_, _o _o _o__i__ _o__.
 
-
 23-1. __u_ __e e_e___ _e_e_o_e_ __ _oo_ _i___i__ _e_ i_ a_ __e _o_e__u_ o_ a _ou__ __o_e _o__e_ _o__ a _ou__ai_ __ou_a___ o_ _ee_ i_ _ei___.
-
 
 23-2. _o _u__ o_ __e _u__e__ o_ e_e___.

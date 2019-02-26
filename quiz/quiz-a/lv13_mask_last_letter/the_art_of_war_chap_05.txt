@@ -1,0 +1,90 @@
+Lv13-mask_last_letter
+V. ENERGY
+V. EN____
+
+1. Sun Tzu said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.
+1. ___ ___ s____ ___ con____ __ _ l____ f____ __ ___ ____ princ____ __ ___ con____ __ _ ___ ____ __ __ me____ _ ques____ __ divi____ __ t____ numb____
+
+2. Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.
+2. Figh____ ____ _ l____ ____ u____ ____ com____ __ no____ diffe____ ____ figh____ ____ _ s____ ____ __ __ me____ _ ques____ __ institu____ s____ ___ sign____
+
+3. To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken-- this is effected by maneuvers direct and indirect.
+3. __ en____ ____ ____ w____ ____ ___ withs____ ___ b____ __ ___ ene____ at____ ___ re____ unshak____ ____ __ effe____ __ maneu____ di____ ___ indir____
+
+4. That the impact of your army may be like a grindstone dashed against an egg-- this is effected by the science of weak points and strong.
+4. ____ ___ im____ __ ____ ____ ___ __ ____ _ grinds____ da____ aga____ __ e____ ____ __ effe____ __ ___ sci____ __ ____ po____ ___ str____
+
+5. In all fighting, the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory.
+5. __ ___ fight____ ___ di____ me____ ___ __ ____ ___ joi____ bat____ ___ indi____ met____ ____ __ ne____ __ o____ __ se____ vict____
+
+6. Indirect tactics, efficiently applied, are inexhaustible as Heaven and Earth, unending as the flow of rivers and streams; like the sun and moon, they end but to begin anew; like the four seasons, they pass away to return once more.
+6. Indi____ tact____ efficie____ appl____ ___ inexhaust____ __ He____ ___ Ea____ unen____ __ ___ ____ __ ri____ ___ stre____ ____ ___ ___ ___ m____ ____ ___ ___ __ b____ a____ ____ ___ ____ seas____ ____ ____ ____ __ re____ ____ m____
+
+7. There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard.
+7. T____ ___ ___ ____ ____ ____ mus____ no____ ___ ___ combinat____ __ t____ ____ ____ ____ __ ____ melo____ ____ ___ ____ __ he____
+
+8. There are not more than five primary colors (blue, yellow, red, white, and black), yet in combination they produce more hues than can ever been seen.
+8. T____ ___ ___ ____ ____ ____ pri____ co____ (b____ yel____ ____ wh____ ___ bla____ ___ __ combina____ ____ pro____ ____ ____ ____ ___ ____ ____ s____
+
+9. There are not more than five cardinal tastes (sour, acrid, salt, sweet, bitter), yet combinations of them yield more flavors than can ever be tasted.
+9. T____ ___ ___ ____ ____ ____ card____ ta____ (s____ ac____ s____ sw____ bitt____ ___ combinat____ __ ____ y____ ____ fla____ ____ ___ ____ __ tas____
+
+10. In battle, there are not more than two methods of attack-- the direct and the indirect; yet these two in combination give rise to an endless series of maneuvers.
+10. __ bat____ t____ ___ ___ ____ ____ ___ met____ __ atta____ ___ di____ ___ ___ indir____ ___ t____ ___ __ combina____ ____ ____ __ __ end____ se____ __ maneuv____
+
+11-1. The direct and the indirect lead on to each other in turn.
+11-1. ___ di____ ___ ___ indi____ ____ __ __ ____ o____ __ t____
+
+11-2. It is like moving in a circle-- you never come to an end.
+11-2. __ __ ____ mo____ __ _ circ____ ___ n____ ____ __ __ ____
+
+11-3. Who can exhaust the possibilities of their combination?
+11-3. ___ ___ exh____ ___ possibili____ __ t____ combinat____
+
+12. The onset of troops is like the rush of a torrent which will even roll stones along in its course.
+12. ___ o____ __ tr____ __ ____ ___ ____ __ _ tor____ w____ ____ ____ ____ st____ a____ __ ___ cou____
+
+13. The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.
+13. ___ qua____ __ deci____ __ ____ ___ well-t____ s____ __ _ fa____ w____ ena____ __ __ st____ ___ des____ ___ vic____
+
+14. Therefore the good fighter will be terrible in his onset, and prompt in his decision.
+14. There____ ___ ____ fig____ ____ __ terr____ __ ___ on____ ___ pr____ __ ___ decis____
+
+15. Energy may be likened to the bending of a crossbow; decision, to the releasing of a trigger.
+15. En____ ___ __ lik____ __ ___ ben____ __ _ cross____ decis____ __ ___ relea____ __ _ trig____
+
+16. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all; amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat.
+16. ____ ___ tur____ ___ tu____ __ bat____ t____ ___ __ see____ diso____ ___ ___ __ ____ diso____ __ ____ ____ confu____ ___ ch____ ____ a____ ___ __ wit____ ____ __ t____ ___ __ ____ __ p____ aga____ def____
+
+17. Simulated disorder postulates perfect discipline, simulated fear postulates courage; simulated weakness postulates strength.
+17. Simul____ diso____ postul____ per____ discipl____ simul____ ____ postul____ cour____ simul____ weak____ postul____ stren____
+
+18. Hiding order beneath the cloak of disorder is simply a question of subdivision; concealing courage under a show of timidity presupposes a fund of latent energy; masking strength with weakness is to be effected by tactical dispositions.
+18. Hi____ o____ ben____ ___ c____ __ diso____ __ si____ _ ques____ __ subdivis____ concea____ cou____ u____ _ ____ __ timi____ presupp____ _ ____ __ la____ ene____ mas____ stre____ ____ weak____ __ __ __ effe____ __ tact____ dispositi____
+
+19-1. Thus one who is skillful at keeping the enemy on the move maintains deceitful appearances, according to which the enemy will act.
+19-1. ____ ___ ___ __ skil____ __ kee____ ___ e____ __ ___ ____ maint____ decei____ appearan____ accor____ __ w____ ___ e____ ____ ____
+
+19-2. He sacrifices something, that the enemy may snatch at it.
+19-2. __ sacrif____ someth____ ____ ___ e____ ___ sn____ __ ___
+
+20. By holding out baits, he keeps him on the march; then with a body of picked men he lies in wait for him.
+20. __ hol____ ___ ba____ __ k____ ___ __ ___ ma____ ____ ____ _ ____ __ pi____ ___ __ ____ __ ____ ___ ____
+
+21-1. The clever combatant looks to the effect of combined energy, and does not require too much from individuals.
+21-1. ___ cl____ comba____ l____ __ ___ ef____ __ comb____ ene____ ___ ____ ___ req____ ___ ____ ____ individu____
+
+21-2. Hence his ability to pick out the right men and utilize combined energy.
+21-2. H____ ___ abi____ __ ____ ___ ___ r____ ___ ___ uti____ comb____ ene____
+
+22-1. When he utilizes combined energy, his fighting men become as it were like unto rolling logs or stones.
+22-1. ____ __ util____ comb____ ene____ ___ figh____ ___ be____ __ __ ____ ____ ____ rol____ ____ __ sto____
+
+22-2. For it is the nature of a log or stone to remain motionless on level ground, and to move when on a slope; if four-cornered, to come to a standstill, but if round-shaped, to go rolling down.
+22-2. ___ __ __ ___ na____ __ _ ___ __ s____ __ re____ motion____ __ l____ gro____ ___ __ ____ ____ __ _ sl____ __ four-corne____ __ ____ __ _ standst____ ___ __ round-sha____ __ __ rol____ d____
+
+23-1. Thus the energy developed by good fighting men is as the momentum of a round stone rolled down a mountain thousands of feet in height.
+23-1. ____ ___ en____ devel____ __ ____ figh____ ___ __ __ ___ mome____ __ _ r____ s____ ro____ ____ _ moun____ thous____ __ ____ __ hei____
+
+23-2. So much on the subject of energy.
+23-2. __ ____ __ ___ sub____ __ ene____

@@ -1,115 +1,77 @@
 Lv1-space
 X. TERRAIN
 
-
 1. SunTzusaid:Wemaydistinguishsixkindsofterrain,towit:(1)Accessibleground;(2)entanglingground;(3)temporizingground;(4)narrowpasses;(5)precipitousheights;(6)positionsatagreatdistancefromtheenemy.
-
 
 2. Groundwhichcanbefreelytraversedbybothsidesiscalledaccessible.
 
-
 3-1. Withregardtogroundofthisnature,bebeforetheenemyinoccupyingtheraisedandsunnyspots,andcarefullyguardyourlineofsupplies.
-
 
 3-2. Thenyouwillbeabletofightwithadvantage.
 
-
 4. Groundwhichcanbeabandonedbutishardtore-occupyiscalledentangling.
-
 
 5-1. Fromapositionofthissort,iftheenemyisunprepared,youmaysallyforthanddefeathim.
 
-
 5-2. Butiftheenemyispreparedforyourcoming,andyoufailtodefeathim,then,returnbeingimpossible,disasterwillensue.
-
 
 6. Whenthepositionissuchthatneithersidewillgainbymakingthefirstmove,itiscalledtemporizingground.
 
-
 7. Inapositionofthissort,eventhoughtheenemyshouldofferusanattractivebait,itwillbeadvisablenottostirforth,butrathertoretreat,thusenticingtheenemyinhisturn;then,whenpartofhisarmyhascomeout,wemaydeliverourattackwithadvantage.
-
 
 8. Withregardtonarrowpasses,ifyoucanoccupythemfirst,letthembestronglygarrisonedandawaittheadventoftheenemy.
 
-
 9. Shouldthearmyforestallyouinoccupyingapass,donotgoafterhimifthepassisfullygarrisoned,butonlyifitisweaklygarrisoned.
-
 
 10. Withregardtoprecipitousheights,ifyouarebeforehandwithyouradversary,youshouldoccupytheraisedandsunnyspots,andtherewaitforhimtocomeup.
 
-
 11. Iftheenemyhasoccupiedthembeforeyou,donotfollowhim,butretreatandtrytoenticehimaway.
-
 
 12. Ifyouaresituatedatagreatdistancefromtheenemy,andthestrengthofthetwoarmiesisequal,itisnoteasytoprovokeabattle,andfightingwillbetoyourdisadvantage.
 
-
 13-1. ThesesixaretheprinciplesconnectedwithEarth.
-
 
 13-2. Thegeneralwhohasattainedaresponsiblepostmustbecarefultostudythem.
 
-
 14-1. Nowanarmyisexposedtosixseveralcalamities,notarisingfromnaturalcauses,butfromfaultsforwhichthegeneralisresponsible.
-
 
 14-2. Theseare:(1)Flight;(2)insubordination;(3)collapse;(4)ruin;(5)disorganization;(6)rout.
 
-
 15. Otherconditionsbeingequal,ifoneforceishurledagainstanothertentimesitssize,theresultwillbetheflightoftheformer.
-
 
 16-1. Whenthecommonsoldiersaretoostrongandtheirofficerstooweak,theresultisinsubordination.
 
-
 16-2. Whentheofficersaretoostrongandthecommonsoldierstooweak,theresultiscollapse.
-
 
 17. Whenthehigherofficersareangryandinsubordinate,andonmeetingtheenemygivebattleontheirownaccountfromafeelingofresentment,beforethecommander-in-chiefcantellwhetherornotheisinapositiontofight,theresultisruin.
 
-
 18. Whenthegeneralisweakandwithoutauthority;whenhisordersarenotclearanddistinct;whentherearenofixesdutiesassignedtoofficersandmen,andtheranksareformedinaslovenlyhaphazardmanner,theresultisutterdisorganization.
-
 
 19. Whenageneral,unabletoestimatetheenemy'sstrength,allowsaninferiorforcetoengagealargerone,orhurlsaweakdetachmentagainstapowerfulone,andneglectstoplacepickedsoldiersinthefrontrank,theresultmustberout.
 
-
 20. Thesearesixwaysofcourtingdefeat,whichmustbecarefullynotedbythegeneralwhohasattainedaresponsiblepost.
-
 
 21. Thenaturalformationofthecountryisthesoldier'sbestally;butapowerofestimatingtheadversary,ofcontrollingtheforcesofvictory,andofshrewdlycalculatingdifficulties,dangersanddistances,constitutesthetestofagreatgeneral.
 
-
 22-1. Hewhoknowsthesethings,andinfightingputshisknowledgeintopractice,willwinhisbattles.
-
 
 22-2. Hewhoknowsthemnot,norpracticesthem,willsurelybedefeated.
 
-
 23. Iffightingissuretoresultinvictory,thenyoumustfight,eventhoughtherulerforbidit;iffightingwillnotresultinvictory,thenyoumustnotfightevenattheruler'sbidding.
-
 
 24. Thegeneralwhoadvanceswithoutcovetingfameandretreatswithoutfearingdisgrace,whoseonlythoughtistoprotecthiscountryanddogoodserviceforhissovereign,isthejewelofthekingdom.
 
-
 25. Regardyoursoldiersasyourchildren,andtheywillfollowyouintothedeepestvalleys;lookuponthemasyourownbelovedsons,andtheywillstandbyyouevenuntodeath.
-
 
 26. If,however,youareindulgent,butunabletomakeyourauthorityfelt;kind-hearted,butunabletoenforceyourcommands;andincapable,moreover,ofquellingdisorder:thenyoursoldiersmustbelikenedtospoiltchildren;theyareuselessforanypracticalpurpose.
 
-
 27. Ifweknowthatourownmenareinaconditiontoattack,butareunawarethattheenemyisnotopentoattack,wehavegoneonlyhalfwaytowardsvictory.
-
 
 28. Ifweknowthattheenemyisopentoattack,butareunawarethatourownmenarenotinaconditiontoattack,wehavegoneonlyhalfwaytowardsvictory.
 
-
 29. Ifweknowthattheenemyisopentoattack,andalsoknowthatourmenareinaconditiontoattack,butareunawarethatthenatureofthegroundmakesfightingimpracticable,wehavestillgoneonlyhalfwaytowardsvictory.
-
 
 30. Hencetheexperiencedsoldier,onceinmotion,isneverbewildered;oncehehasbrokencamp,heisneverataloss.
 
-
 31. Hencethesaying:Ifyouknowtheenemyandknowyourself,yourvictorywillnotstandindoubt;ifyouknowHeavenandknowEarth,youmaymakeyourvictorycomplete.
-
 

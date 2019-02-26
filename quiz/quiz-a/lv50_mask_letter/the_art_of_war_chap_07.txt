@@ -1,0 +1,138 @@
+Lv50-mask_letter
+VII. MANEUVERING
+VII. M_NEUVERING
+
+1. Sun Tzu said: In war, the general receives his commands from the sovereign.
+1. Sun Tzu s_id: In w_r, the gener_l receives his comm_nds from the sovereign.
+
+2. Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.
+2. H_ving collected _n _rmy _nd concentr_ted his forces, he must blend _nd h_rmonize the different elements thereof before pitching his c_mp.
+
+3-1. After that, comes tactical maneuvering, than which there is nothing more difficult.
+3-1. _fter th_t, comes t_ctic_l m_neuvering, th_n which there is nothing more difficult.
+
+3-2. The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.
+3-2. The difficulty of t_ctic_l m_neuvering consists in turning the devious into the direct, _nd misfortune into g_in.
+
+4. Thus, to take a long and circuitous route, after enticing the enemy out of the way, and though starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of DEVIATION.
+4. Thus, to t_ke _ long _nd circuitous route, _fter enticing the enemy out of the w_y, _nd though st_rting _fter him, to contrive to re_ch the go_l before him, shows knowledge of the _rtifice of DEVI_TION.
+
+5. Maneuvering with an army is advantageous; with an undisciplined multitude, most dangerous.
+5. M_neuvering with _n _rmy is _dv_nt_geous; with _n undisciplined multitude, most d_ngerous.
+
+6-1. If you set a fully equipped army in march in order to snatch an advantage, the chances are that you will be too late.
+6-1. If you set _ fully equipped _rmy in m_rch in order to sn_tch _n _dv_nt_ge, the ch_nces _re th_t you will be too l_te.
+
+6-2. On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores.
+6-2. On the other h_nd, to det_ch _ flying column for the purpose involves the s_crifice of its b_gg_ge _nd stores.
+
+7. Thus, if you order your men to roll up their buff-coats, and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred LI in order to wrest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.
+7. Thus, if you order your men to roll up their buff-co_ts, _nd m_ke forced m_rches without h_lting d_y or night, covering double the usu_l dist_nce _t _ stretch, doing _ hundred LI in order to wrest _n _dv_nt_ge, the le_ders of _ll your three divisions will f_ll into the h_nds of the enemy.
+
+8. The stronger men will be in front, the jaded ones will fall behind, and on this plan only one-tenth of your army will reach its destination.
+8. The stronger men will be in front, the j_ded ones will f_ll behind, _nd on this pl_n only one-tenth of your _rmy will re_ch its destin_tion.
+
+9. If you march fifty LI in order to outmaneuver the enemy, you will lose the leader of your first division, and only half your force will reach the goal.
+9. If you m_rch fifty LI in order to outm_neuver the enemy, you will lose the le_der of your first division, _nd only h_lf your force will re_ch the go_l.
+
+10. If you march thirty LI with the same object, two-thirds of your army will arrive.
+10. If you m_rch thirty LI with the s_me object, two-thirds of your _rmy will _rrive.
+
+11. We may take it then that an army without its baggage-train is lost; without provisions it is lost; without bases of supply it is lost.
+11. We m_y t_ke it then th_t _n _rmy without its b_gg_ge-tr_in is lost; without provisions it is lost; without b_ses of supply it is lost.
+
+12. We cannot enter into alliances until we are acquainted with the designs of our neighbors.
+12. We c_nnot enter into _lli_nces until we _re _cqu_inted with the designs of our neighbors.
+
+13. We are not fit to lead an army on the march unless we are familiar with the face of the country-- its mountains and forests, its pitfalls and precipices, its marshes and swamps.
+13. We _re not fit to le_d _n _rmy on the m_rch unless we _re f_mili_r with the f_ce of the country-- its mount_ins _nd forests, its pitf_lls _nd precipices, its m_rshes _nd sw_mps.
+
+14. We shall be unable to turn natural advantage to account unless we make use of local guides.
+14. We sh_ll be un_ble to turn n_tur_l _dv_nt_ge to _ccount unless we m_ke use of loc_l guides.
+
+15. In war, practice dissimulation, and you will succeed.
+15. In w_r, pr_ctice dissimul_tion, _nd you will succeed.
+
+16. Whether to concentrate or to divide your troops, must be decided by circumstances.
+16. Whether to concentr_te or to divide your troops, must be decided by circumst_nces.
+
+17. Let your rapidity be that of the wind, your compactness that of the forest.
+17. Let your r_pidity be th_t of the wind, your comp_ctness th_t of the forest.
+
+18. In raiding and plundering be like fire, in immovability like a mountain.
+18. In r_iding _nd plundering be like fire, in immov_bility like _ mount_in.
+
+19. Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt.
+19. Let your pl_ns be d_rk _nd impenetr_ble _s night, _nd when you move, f_ll like _ thunderbolt.
+
+20. When you plunder a countryside, let the spoil be divided amongst your men; when you capture new territory, cut it up into allotments for the benefit of the soldiery.
+20. When you plunder _ countryside, let the spoil be divided _mongst your men; when you c_pture new territory, cut it up into _llotments for the benefit of the soldiery.
+
+21. Ponder and deliberate before you make a move.
+21. Ponder _nd deliber_te before you m_ke _ move.
+
+22-1. He will conquer who has learnt the artifice of deviation.
+22-1. He will conquer who h_s le_rnt the _rtifice of devi_tion.
+
+22-2. Such is the art of maneuvering.
+22-2. Such is the _rt of m_neuvering.
+
+23-1. The Book of Army Management says: On the field of battle, the spoken word does not carry far enough: hence the institution of gongs and drums.
+23-1. The Book of _rmy M_n_gement s_ys: On the field of b_ttle, the spoken word does not c_rry f_r enough: hence the institution of gongs _nd drums.
+
+23-2. Nor can ordinary objects be seen clearly enough: hence the institution of banners and flags.
+23-2. Nor c_n ordin_ry objects be seen cle_rly enough: hence the institution of b_nners _nd fl_gs.
+
+24. Gongs and drums, banners and flags, are means whereby the ears and eyes of the host may be focused on one particular point.
+24. Gongs _nd drums, b_nners _nd fl_gs, _re me_ns whereby the e_rs _nd eyes of the host m_y be focused on one p_rticul_r point.
+
+25-1. The host thus forming a single united body, is it impossible either for the brave to advance alone, or for the cowardly to retreat alone.
+25-1. The host thus forming _ single united body, is it impossible either for the br_ve to _dv_nce _lone, or for the cow_rdly to retre_t _lone.
+
+25-2. This is the art of handling large masses of men.
+25-2. This is the _rt of h_ndling l_rge m_sses of men.
+
+26. In night-fighting, then, make much use of signal-fires and drums, and in fighting by day, of flags and banners, as a means of influencing the ears and eyes of your army.
+26. In night-fighting, then, m_ke much use of sign_l-fires _nd drums, _nd in fighting by d_y, of fl_gs _nd b_nners, _s _ me_ns of influencing the e_rs _nd eyes of your _rmy.
+
+27. A whole army may be robbed of its spirit; a commander-in-chief may be robbed of his presence of mind.
+27. _ whole _rmy m_y be robbed of its spirit; _ comm_nder-in-chief m_y be robbed of his presence of mind.
+
+28. Now a soldier's spirit is keenest in the morning; by noonday it has begun to flag; and in the evening, his mind is bent only on returning to camp.
+28. Now _ soldier's spirit is keenest in the morning; by noond_y it h_s begun to fl_g; _nd in the evening, his mind is bent only on returning to c_mp.
+
+29-1. A clever general, therefore, avoids an army when its spirit is keen, but attacks it when it is sluggish and inclined to return.
+29-1. _ clever gener_l, therefore, _voids _n _rmy when its spirit is keen, but _tt_cks it when it is sluggish _nd inclined to return.
+
+29-2. This is the art of studying moods.
+29-2. This is the _rt of studying moods.
+
+30. Disciplined and calm, to await the appearance of disorder and hubbub amongst the enemy:-- this is the art of retaining self-possession.
+30. Disciplined _nd c_lm, to _w_it the _ppe_r_nce of disorder _nd hubbub _mongst the enemy:-- this is the _rt of ret_ining self-possession.
+
+31. To be near the goal while the enemy is still far from it, to wait at ease while the enemy is toiling and struggling, to be well-fed while the enemy is famished:-- this is the art of husbanding one's strength.
+31. To be ne_r the go_l while the enemy is still f_r from it, to w_it _t e_se while the enemy is toiling _nd struggling, to be well-fed while the enemy is f_mished:-- this is the _rt of husb_nding one's strength.
+
+32. To refrain from intercepting an enemy whose banners are in perfect order, to refrain from attacking an army drawn up in calm and confident array:-- this is the art of studying circumstances.
+32. To refr_in from intercepting _n enemy whose b_nners _re in perfect order, to refr_in from _tt_cking _n _rmy dr_wn up in c_lm _nd confident _rr_y:-- this is the _rt of studying circumst_nces.
+
+33. It is a military axiom not to advance uphill against the enemy, nor to oppose him when he comes downhill.
+33. It is _ milit_ry _xiom not to _dv_nce uphill _g_inst the enemy, nor to oppose him when he comes downhill.
+
+34. Do not pursue an enemy who simulates flight; do not attack soldiers whose temper is keen.
+34. Do not pursue _n enemy who simul_tes flight; do not _tt_ck soldiers whose temper is keen.
+
+35-1. Do not swallow bait offered by the enemy.
+35-1. Do not sw_llow b_it offered by the enemy.
+
+35-2. Do not interfere with an army that is returning home.
+35-2. Do not interfere with _n _rmy th_t is returning home.
+
+36-1. When you surround an army, leave an outlet free.
+36-1. When you surround _n _rmy, le_ve _n outlet free.
+
+36-2. Do not press a desperate foe too hard.
+36-2. Do not press _ desper_te foe too h_rd.
+
+37. Such is the art of warfare.
+37. Such is the _rt of w_rf_re.

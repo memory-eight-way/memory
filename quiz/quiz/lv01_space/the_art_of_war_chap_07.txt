@@ -1,137 +1,92 @@
 Lv1-space
 VII. MANEUVERING
 
-
 1. SunTzusaid:Inwar,thegeneralreceiveshiscommandsfromthesovereign.
-
 
 2. Havingcollectedanarmyandconcentratedhisforces,hemustblendandharmonizethedifferentelementsthereofbeforepitchinghiscamp.
 
-
 3-1. Afterthat,comestacticalmaneuvering,thanwhichthereisnothingmoredifficult.
-
 
 3-2. Thedifficultyoftacticalmaneuveringconsistsinturningthedeviousintothedirect,andmisfortuneintogain.
 
-
 4. Thus,totakealongandcircuitousroute,afterenticingtheenemyoutoftheway,andthoughstartingafterhim,tocontrivetoreachthegoalbeforehim,showsknowledgeoftheartificeofDEVIATION.
-
 
 5. Maneuveringwithanarmyisadvantageous;withanundisciplinedmultitude,mostdangerous.
 
-
 6-1. Ifyousetafullyequippedarmyinmarchinordertosnatchanadvantage,thechancesarethatyouwillbetoolate.
-
 
 6-2. Ontheotherhand,todetachaflyingcolumnforthepurposeinvolvesthesacrificeofitsbaggageandstores.
 
-
 7. Thus,ifyouorderyourmentorolluptheirbuff-coats,andmakeforcedmarcheswithouthaltingdayornight,coveringdoubletheusualdistanceatastretch,doingahundredLIinordertowrestanadvantage,theleadersofallyourthreedivisionswillfallintothehandsoftheenemy.
-
 
 8. Thestrongermenwillbeinfront,thejadedoneswillfallbehind,andonthisplanonlyone-tenthofyourarmywillreachitsdestination.
 
-
 9. IfyoumarchfiftyLIinordertooutmaneuvertheenemy,youwilllosetheleaderofyourfirstdivision,andonlyhalfyourforcewillreachthegoal.
-
 
 10. IfyoumarchthirtyLIwiththesameobject,two-thirdsofyourarmywillarrive.
 
-
 11. Wemaytakeitthenthatanarmywithoutitsbaggage-trainislost;withoutprovisionsitislost;withoutbasesofsupplyitislost.
-
 
 12. Wecannotenterintoalliancesuntilweareacquaintedwiththedesignsofourneighbors.
 
-
 13. Wearenotfittoleadanarmyonthemarchunlesswearefamiliarwiththefaceofthecountry--itsmountainsandforests,itspitfallsandprecipices,itsmarshesandswamps.
-
 
 14. Weshallbeunabletoturnnaturaladvantagetoaccountunlesswemakeuseoflocalguides.
 
-
 15. Inwar,practicedissimulation,andyouwillsucceed.
-
 
 16. Whethertoconcentrateortodivideyourtroops,mustbedecidedbycircumstances.
 
-
 17. Letyourrapiditybethatofthewind,yourcompactnessthatoftheforest.
-
 
 18. Inraidingandplunderingbelikefire,inimmovabilitylikeamountain.
 
-
 19. Letyourplansbedarkandimpenetrableasnight,andwhenyoumove,falllikeathunderbolt.
-
 
 20. Whenyouplunderacountryside,letthespoilbedividedamongstyourmen;whenyoucapturenewterritory,cutitupintoallotmentsforthebenefitofthesoldiery.
 
-
 21. Ponderanddeliberatebeforeyoumakeamove.
-
 
 22-1. Hewillconquerwhohaslearnttheartificeofdeviation.
 
-
 22-2. Suchistheartofmaneuvering.
-
 
 23-1. TheBookofArmyManagementsays:Onthefieldofbattle,thespokenworddoesnotcarryfarenough:hencetheinstitutionofgongsanddrums.
 
-
 23-2. Norcanordinaryobjectsbeseenclearlyenough:hencetheinstitutionofbannersandflags.
-
 
 24. Gongsanddrums,bannersandflags,aremeanswherebytheearsandeyesofthehostmaybefocusedononeparticularpoint.
 
-
 25-1. Thehostthusformingasingleunitedbody,isitimpossibleeitherforthebravetoadvancealone,orforthecowardlytoretreatalone.
-
 
 25-2. Thisistheartofhandlinglargemassesofmen.
 
-
 26. Innight-fighting,then,makemuchuseofsignal-firesanddrums,andinfightingbyday,offlagsandbanners,asameansofinfluencingtheearsandeyesofyourarmy.
-
 
 27. Awholearmymayberobbedofitsspirit;acommander-in-chiefmayberobbedofhispresenceofmind.
 
-
 28. Nowasoldier'sspiritiskeenestinthemorning;bynoondayithasbeguntoflag;andintheevening,hismindisbentonlyonreturningtocamp.
-
 
 29-1. Aclevergeneral,therefore,avoidsanarmywhenitsspiritiskeen,butattacksitwhenitissluggishandinclinedtoreturn.
 
-
 29-2. Thisistheartofstudyingmoods.
-
 
 30. Disciplinedandcalm,toawaittheappearanceofdisorderandhubbubamongsttheenemy:--thisistheartofretainingself-possession.
 
-
 31. Tobenearthegoalwhiletheenemyisstillfarfromit,towaitateasewhiletheenemyistoilingandstruggling,tobewell-fedwhiletheenemyisfamished:--thisistheartofhusbandingone'sstrength.
-
 
 32. Torefrainfrominterceptinganenemywhosebannersareinperfectorder,torefrainfromattackinganarmydrawnupincalmandconfidentarray:--thisistheartofstudyingcircumstances.
 
-
 33. Itisamilitaryaxiomnottoadvanceuphillagainsttheenemy,nortoopposehimwhenhecomesdownhill.
-
 
 34. Donotpursueanenemywhosimulatesflight;donotattacksoldierswhosetemperiskeen.
 
-
 35-1. Donotswallowbaitofferedbytheenemy.
-
 
 35-2. Donotinterferewithanarmythatisreturninghome.
 
-
 36-1. Whenyousurroundanarmy,leaveanoutletfree.
 
-
 36-2. Donotpressadesperatefoetoohard.
-
 
 37. Suchistheartofwarfare.

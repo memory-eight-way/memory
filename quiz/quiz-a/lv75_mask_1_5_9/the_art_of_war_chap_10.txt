@@ -1,0 +1,115 @@
+Lv75-mask_1_5_9
+X. TERRAIN
+X. _______
+
+1. Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy.
+1. ___ Tzu said: We ___ distinguish six kinds __ terrain, to wit: ___ Accessible ground; (2) __________ ground; (3) temporizing _______ (4) narrow passes; ___ precipitous heights; (6) _________ at a great ________ from the enemy.
+
+2. Ground which can be freely traversed by both sides is called accessible.
+2. ______ which can be ______ traversed by both _____ is called accessible.
+
+3-1. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies.
+3-1. ____ regard to ground __ this nature, be ______ the enemy in _________ the raised and _____ spots, and carefully _____ your line of _________
+
+3-2. Then you will be able to fight with advantage.
+3-2. ____ you will be ____ to fight with __________
+
+4. Ground which can be abandoned but is hard to re-occupy is called entangling.
+4. ______ which can be _________ but is hard __ re-occupy is called ___________
+
+5-1. From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him.
+5-1. ____ a position of ____ sort, if the _____ is unprepared, you ___ sally forth and ______ him.
+
+5-2. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue.
+5-2. ___ if the enemy __ prepared for your _______ and you fail __ defeat him, then, ______ being impossible, disaster ____ ensue.
+
+6. When the position is such that neither side will gain by making the first move, it is called temporizing ground.
+6. ____ the position is ____ that neither side ____ gain by making ___ first move, it __ called temporizing ground.
+
+7. In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage.
+7. __ a position of ____ sort, even though ___ enemy should offer __ an attractive bait, __ will be advisable ___ to stir forth, ___ rather to retreat, ____ enticing the enemy __ his turn; then, ____ part of his ____ has come out, __ may deliver our ______ with advantage.
+
+8. With regard to narrow passes, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy.
+8. ____ regard to narrow _______ if you can ______ them first, let ____ be strongly garrisoned ___ await the advent __ the enemy.
+
+9. Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned.
+9. ______ the army forestall ___ in occupying a _____ do not go _____ him if the ____ is fully garrisoned, ___ only if it __ weakly garrisoned.
+
+10. With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up.
+10. ____ regard to precipitous ________ if you are __________ with your adversary, ___ should occupy the ______ and sunny spots, ___ there wait for ___ to come up.
+
+11. If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away.
+11. __ the enemy has ________ them before you, __ not follow him, ___ retreat and try __ entice him away.
+
+12. If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage.
+12. __ you are situated __ a great distance ____ the enemy, and ___ strength of the ___ armies is equal, __ is not easy __ provoke a battle, ___ fighting will be __ your disadvantage.
+
+13-1. These six are the principles connected with Earth.
+13-1. _____ six are the __________ connected with Earth.
+
+13-2. The general who has attained a responsible post must be careful to study them.
+13-2. ___ general who has ________ a responsible post ____ be careful to _____ them.
+
+14-1. Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible.
+14-1. ___ an army is _______ to six several ___________ not arising from _______ causes, but from ______ for which the _______ is responsible.
+
+14-2. These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5) disorganization; (6) rout.
+14-2. _____ are: (1) Flight; ___ insubordination; (3) collapse; ___ ruin; (5) disorganization; ___ rout.
+
+15. Other conditions being equal, if one force is hurled against another ten times its size, the result will be the flight of the former.
+15. _____ conditions being equal, __ one force is ______ against another ten _____ its size, the ______ will be the ______ of the former.
+
+16-1. When the common soldiers are too strong and their officers too weak, the result is insubordination.
+16-1. ____ the common soldiers ___ too strong and _____ officers too weak, ___ result is insubordination.
+
+16-2. When the officers are too strong and the common soldiers too weak, the result is collapse.
+16-2. ____ the officers are ___ strong and the ______ soldiers too weak, ___ result is collapse.
+
+17. When the higher officers are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or not he is in a position to fight, the result is ruin.
+17. ____ the higher officers ___ angry and insubordinate, ___ on meeting the _____ give battle on _____ own account from _ feeling of resentment, ______ the commander-in-chief can ____ whether or not __ is in a ________ to fight, the ______ is ruin.
+
+18. When the general is weak and without authority; when his orders are not clear and distinct; when there are no fixes duties assigned to officers and men, and the ranks are formed in a slovenly haphazard manner, the result is utter disorganization.
+18. ____ the general is ____ and without authority; ____ his orders are ___ clear and distinct; ____ there are no _____ duties assigned to ________ and men, and ___ ranks are formed __ a slovenly haphazard _______ the result is _____ disorganization.
+
+19. When a general, unable to estimate the enemy's strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank, the result must be rout.
+19. ____ a general, unable __ estimate the enemy's _________ allows an inferior _____ to engage a ______ one, or hurls _ weak detachment against _ powerful one, and ________ to place picked ________ in the front _____ the result must __ rout.
+
+20. These are six ways of courting defeat, which must be carefully noted by the general who has attained a responsible post.
+20. _____ are six ways __ courting defeat, which ____ be carefully noted __ the general who ___ attained a responsible _____
+
+21. The natural formation of the country is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general.
+21. ___ natural formation of ___ country is the _________ best ally; but _ power of estimating ___ adversary, of controlling ___ forces of victory, ___ of shrewdly calculating _____________ dangers and distances, ___________ the test of _ great general.
+
+22-1. He who knows these things, and in fighting puts his knowledge into practice, will win his battles.
+22-1. __ who knows these _______ and in fighting ____ his knowledge into _________ will win his ________
+
+22-2. He who knows them not, nor practices them, will surely be defeated.
+22-2. __ who knows them ____ nor practices them, ____ surely be defeated.
+
+23. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding.
+23. __ fighting is sure __ result in victory, ____ you must fight, ____ though the ruler ______ it; if fighting ____ not result in ________ then you must ___ fight even at ___ ruler's bidding.
+
+24. The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom.
+24. ___ general who advances _______ coveting fame and ________ without fearing disgrace, _____ only thought is __ protect his country ___ do good service ___ his sovereign, is ___ jewel of the ________
+
+25. Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death.
+25. ______ your soldiers as ____ children, and they ____ follow you into ___ deepest valleys; look ____ them as your ___ beloved sons, and ____ will stand by ___ even unto death.
+
+26. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children; they are useless for any practical purpose.
+26. ___ however, you are __________ but unable to ____ your authority felt; _____________ but unable to _______ your commands; and __________ moreover, of quelling _________ then your soldiers ____ be likened to ______ children; they are _______ for any practical ________
+
+27. If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory.
+27. __ we know that ___ own men are __ a condition to _______ but are unaware ____ the enemy is ___ open to attack, __ have gone only _______ towards victory.
+
+28. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway towards victory.
+28. __ we know that ___ enemy is open __ attack, but are _______ that our own ___ are not in _ condition to attack, __ have gone only _______ towards victory.
+
+29. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory.
+29. __ we know that ___ enemy is open __ attack, and also ____ that our men ___ in a condition __ attack, but are _______ that the nature __ the ground makes ________ impracticable, we have _____ gone only halfway _______ victory.
+
+30. Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss.
+30. _____ the experienced soldier, ____ in motion, is _____ bewildered; once he ___ broken camp, he __ never at a _____
+
+31. Hence the saying: If you know the enemy and know yourself, your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory complete.
+31. _____ the saying: If ___ know the enemy ___ know yourself, your _______ will not stand __ doubt; if you ____ Heaven and know ______ you may make ____ victory complete.
+

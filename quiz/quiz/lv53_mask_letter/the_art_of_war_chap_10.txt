@@ -1,115 +1,77 @@
 Lv53-mask_letter
 X. TERR_IN
 
-
 1. Sun Tzu s_i_: We m_y _istinguish six kin_s of terr_in, to wit: (1) ___essi_le groun_; (2) ent_ngling groun_; (3) temporizing groun_; (4) n_rrow p_sses; (5) pre_ipitous heights; (6) positions _t _ gre_t _ist_n_e from the enemy.
-
 
 2. Groun_ whi_h __n _e freely tr_verse_ _y _oth si_es is __lle_ ___essi_le.
 
-
 3-1. With reg_r_ to groun_ of this n_ture, _e _efore the enemy in o__upying the r_ise_ _n_ sunny spots, _n_ __refully gu_r_ your line of supplies.
-
 
 3-2. Then you will _e __le to fight with __v_nt_ge.
 
-
 4. Groun_ whi_h __n _e ___n_one_ _ut is h_r_ to re-o__upy is __lle_ ent_ngling.
-
 
 5-1. From _ position of this sort, if the enemy is unprep_re_, you m_y s_lly forth _n_ _efe_t him.
 
-
 5-2. _ut if the enemy is prep_re_ for your _oming, _n_ you f_il to _efe_t him, then, return _eing impossi_le, _is_ster will ensue.
-
 
 6. When the position is su_h th_t neither si_e will g_in _y m_king the first move, it is __lle_ temporizing groun_.
 
-
 7. In _ position of this sort, even though the enemy shoul_ offer us _n _ttr__tive __it, it will _e __vis__le not to stir forth, _ut r_ther to retre_t, thus enti_ing the enemy in his turn; then, when p_rt of his _rmy h_s _ome out, we m_y _eliver our _tt__k with __v_nt_ge.
-
 
 8. With reg_r_ to n_rrow p_sses, if you __n o__upy them first, let them _e strongly g_rrisone_ _n_ _w_it the __vent of the enemy.
 
-
 9. Shoul_ the _rmy forest_ll you in o__upying _ p_ss, _o not go _fter him if the p_ss is fully g_rrisone_, _ut only if it is we_kly g_rrisone_.
-
 
 10. With reg_r_ to pre_ipitous heights, if you _re _eforeh_n_ with your __vers_ry, you shoul_ o__upy the r_ise_ _n_ sunny spots, _n_ there w_it for him to _ome up.
 
-
 11. If the enemy h_s o__upie_ them _efore you, _o not follow him, _ut retre_t _n_ try to enti_e him _w_y.
-
 
 12. If you _re situ_te_ _t _ gre_t _ist_n_e from the enemy, _n_ the strength of the two _rmies is equ_l, it is not e_sy to provoke _ __ttle, _n_ fighting will _e to your _is__v_nt_ge.
 
-
 13-1. These six _re the prin_iples _onne_te_ with E_rth.
-
 
 13-2. The gener_l who h_s _tt_ine_ _ responsi_le post must _e __reful to stu_y them.
 
-
 14-1. Now _n _rmy is expose_ to six sever_l __l_mities, not _rising from n_tur_l __uses, _ut from f_ults for whi_h the gener_l is responsi_le.
-
 
 14-2. These _re: (1) Flight; (2) insu_or_in_tion; (3) _oll_pse; (4) ruin; (5) _isorg_niz_tion; (6) rout.
 
-
 15. Other _on_itions _eing equ_l, if one for_e is hurle_ _g_inst _nother ten times its size, the result will _e the flight of the former.
-
 
 16-1. When the _ommon sol_iers _re too strong _n_ their offi_ers too we_k, the result is insu_or_in_tion.
 
-
 16-2. When the offi_ers _re too strong _n_ the _ommon sol_iers too we_k, the result is _oll_pse.
-
 
 17. When the higher offi_ers _re _ngry _n_ insu_or_in_te, _n_ on meeting the enemy give __ttle on their own ___ount from _ feeling of resentment, _efore the _omm_n_er-in-_hief __n tell whether or not he is in _ position to fight, the result is ruin.
 
-
 18. When the gener_l is we_k _n_ without _uthority; when his or_ers _re not _le_r _n_ _istin_t; when there _re no fixes _uties _ssigne_ to offi_ers _n_ men, _n_ the r_nks _re forme_ in _ slovenly h_ph_z_r_ m_nner, the result is utter _isorg_niz_tion.
-
 
 19. When _ gener_l, un__le to estim_te the enemy's strength, _llows _n inferior for_e to eng_ge _ l_rger one, or hurls _ we_k _et__hment _g_inst _ powerful one, _n_ negle_ts to pl__e pi_ke_ sol_iers in the front r_nk, the result must _e rout.
 
-
 20. These _re six w_ys of _ourting _efe_t, whi_h must _e __refully note_ _y the gener_l who h_s _tt_ine_ _ responsi_le post.
-
 
 21. The n_tur_l form_tion of the _ountry is the sol_ier's _est _lly; _ut _ power of estim_ting the __vers_ry, of _ontrolling the for_es of vi_tory, _n_ of shrew_ly __l_ul_ting _iffi_ulties, __ngers _n_ _ist_n_es, _onstitutes the test of _ gre_t gener_l.
 
-
 22-1. He who knows these things, _n_ in fighting puts his knowle_ge into pr__ti_e, will win his __ttles.
-
 
 22-2. He who knows them not, nor pr__ti_es them, will surely _e _efe_te_.
 
-
 23. If fighting is sure to result in vi_tory, then you must fight, even though the ruler for_i_ it; if fighting will not result in vi_tory, then you must not fight even _t the ruler's _i__ing.
-
 
 24. The gener_l who __v_n_es without _oveting f_me _n_ retre_ts without fe_ring _isgr__e, whose only thought is to prote_t his _ountry _n_ _o goo_ servi_e for his sovereign, is the jewel of the king_om.
 
-
 25. Reg_r_ your sol_iers _s your _hil_ren, _n_ they will follow you into the _eepest v_lleys; look upon them _s your own _elove_ sons, _n_ they will st_n_ _y you even unto _e_th.
-
 
 26. If, however, you _re in_ulgent, _ut un__le to m_ke your _uthority felt; kin_-he_rte_, _ut un__le to enfor_e your _omm_n_s; _n_ in__p__le, moreover, of quelling _isor_er: then your sol_iers must _e likene_ to spoilt _hil_ren; they _re useless for _ny pr__ti__l purpose.
 
-
 27. If we know th_t our own men _re in _ _on_ition to _tt__k, _ut _re un_w_re th_t the enemy is not open to _tt__k, we h_ve gone only h_lfw_y tow_r_s vi_tory.
-
 
 28. If we know th_t the enemy is open to _tt__k, _ut _re un_w_re th_t our own men _re not in _ _on_ition to _tt__k, we h_ve gone only h_lfw_y tow_r_s vi_tory.
 
-
 29. If we know th_t the enemy is open to _tt__k, _n_ _lso know th_t our men _re in _ _on_ition to _tt__k, _ut _re un_w_re th_t the n_ture of the groun_ m_kes fighting impr__ti___le, we h_ve still gone only h_lfw_y tow_r_s vi_tory.
-
 
 30. Hen_e the experien_e_ sol_ier, on_e in motion, is never _ewil_ere_; on_e he h_s _roken __mp, he is never _t _ loss.
 
-
 31. Hen_e the s_ying: If you know the enemy _n_ know yourself, your vi_tory will not st_n_ in _ou_t; if you know He_ven _n_ know E_rth, you m_y m_ke your vi_tory _omplete.
-
 

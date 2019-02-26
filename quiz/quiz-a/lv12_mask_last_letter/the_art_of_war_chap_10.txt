@@ -1,0 +1,115 @@
+Lv12-mask_last_letter
+X. TERRAIN
+X. TERR___
+
+1. Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy.
+1. ___ ___ sa___ __ ___ distingu___ ___ ki___ __ terra___ __ w___ ___ Accessi___ grou___ ___ entangl___ grou___ ___ temporiz___ grou___ ___ nar___ pass___ ___ precipit___ heigh___ ___ positi___ __ _ gr___ dista___ f___ ___ ene___
+
+2. Ground which can be freely traversed by both sides is called accessible.
+2. Gro___ wh___ ___ __ fre___ traver___ __ b___ si___ __ cal___ accessib___
+
+3-1. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies.
+3-1. W___ reg___ __ gro___ __ t___ natu___ __ bef___ ___ en___ __ occupy___ ___ rai___ ___ su___ spo___ ___ carefu___ gu___ y___ l___ __ suppli___
+
+3-2. Then you will be able to fight with advantage.
+3-2. T___ ___ w___ __ a___ __ fi___ w___ advanta___
+
+4. Ground which can be abandoned but is hard to re-occupy is called entangling.
+4. Gro___ wh___ ___ __ abando___ ___ __ h___ __ re-occ___ __ cal___ entangli___
+
+5-1. From a position of this sort, if the enemy is unprepared, you may sally forth and defeat him.
+5-1. F___ _ posit___ __ t___ so___ __ ___ en___ __ unprepar___ ___ ___ sa___ fo___ ___ def___ h___
+
+5-2. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue.
+5-2. ___ __ ___ en___ __ prepa___ ___ y___ comi___ ___ ___ f___ __ def___ h___ th___ ret___ be___ impossib___ disas___ w___ ens___
+
+6. When the position is such that neither side will gain by making the first move, it is called temporizing ground.
+6. W___ ___ posit___ __ s___ t___ neit___ s___ w___ g___ __ mak___ ___ fi___ mo___ __ __ cal___ temporiz___ grou___
+
+7. In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir forth, but rather to retreat, thus enticing the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage.
+7. __ _ posit___ __ t___ so___ e___ tho___ ___ en___ sho___ of___ __ __ attract___ ba___ __ w___ __ advisa___ ___ __ s___ for___ ___ rat___ __ retre___ t___ entic___ ___ en___ __ ___ tu___ th___ w___ p___ __ ___ a___ ___ c___ o___ __ ___ deli___ ___ att___ w___ advanta___
+
+8. With regard to narrow passes, if you can occupy them first, let them be strongly garrisoned and await the advent of the enemy.
+8. W___ reg___ __ nar___ pass___ __ ___ ___ occ___ t___ fir___ ___ t___ __ stron___ garriso___ ___ aw___ ___ adv___ __ ___ ene___
+
+9. Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned.
+9. Sho___ ___ a___ forest___ ___ __ occupy___ _ pa___ __ ___ __ af___ ___ __ ___ p___ __ fu___ garrison___ ___ o___ __ __ __ wea___ garrison___
+
+10. With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up.
+10. W___ reg___ __ precipit___ heigh___ __ ___ ___ beforeh___ w___ y___ adversa___ ___ sho___ occ___ ___ rai___ ___ su___ spo___ ___ th___ w___ ___ ___ __ c___ ___
+
+11. If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away.
+11. __ ___ en___ ___ occup___ t___ bef___ y___ __ ___ fol___ h___ ___ retr___ ___ ___ __ ent___ ___ aw___
+
+12. If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage.
+12. __ ___ ___ situa___ __ _ gr___ dista___ f___ ___ ene___ ___ ___ stren___ __ ___ ___ arm___ __ equ___ __ __ ___ e___ __ prov___ _ batt___ ___ fight___ w___ __ __ y___ disadvanta___
+
+13-1. These six are the principles connected with Earth.
+13-1. Th___ ___ ___ ___ princip___ connec___ w___ Ear___
+
+13-2. The general who has attained a responsible post must be careful to study them.
+13-2. ___ gene___ ___ ___ attai___ _ responsi___ p___ m___ __ care___ __ st___ th___
+
+14-1. Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible.
+14-1. ___ __ a___ __ expo___ __ ___ seve___ calamiti___ ___ aris___ f___ natu___ caus___ ___ f___ fau___ ___ wh___ ___ gene___ __ responsib___
+
+14-2. These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5) disorganization; (6) rout.
+14-2. Th___ a___ ___ Flig___ ___ insubordinati___ ___ collap___ ___ ru___ ___ disorganizati___ ___ ro___
+
+15. Other conditions being equal, if one force is hurled against another ten times its size, the result will be the flight of the former.
+15. Ot___ conditi___ be___ equ___ __ ___ fo___ __ hur___ agai___ anot___ ___ ti___ ___ si___ ___ res___ w___ __ ___ fli___ __ ___ form___
+
+16-1. When the common soldiers are too strong and their officers too weak, the result is insubordination.
+16-1. W___ ___ com___ soldi___ ___ ___ str___ ___ th___ offic___ ___ we___ ___ res___ __ insubordinati___
+
+16-2. When the officers are too strong and the common soldiers too weak, the result is collapse.
+16-2. W___ ___ offic___ ___ ___ str___ ___ ___ com___ soldi___ ___ we___ ___ res___ __ collap___
+
+17. When the higher officers are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or not he is in a position to fight, the result is ruin.
+17. W___ ___ hig___ offic___ ___ an___ ___ insubordina___ ___ __ meet___ ___ en___ g___ bat___ __ th___ ___ acco___ f___ _ feel___ __ resentme___ bef___ ___ commander-in-ch___ ___ t___ whet___ __ ___ __ __ __ _ posit___ __ fig___ ___ res___ __ ru___
+
+18. When the general is weak and without authority; when his orders are not clear and distinct; when there are no fixes duties assigned to officers and men, and the ranks are formed in a slovenly haphazard manner, the result is utter disorganization.
+18. W___ ___ gene___ __ w___ ___ with___ authori___ w___ ___ ord___ ___ ___ cl___ ___ distin___ w___ th___ ___ __ fi___ dut___ assig___ __ offic___ ___ m___ ___ ___ ra___ ___ for___ __ _ slove___ haphaz___ mann___ ___ res___ __ ut___ disorganizati___
+
+19. When a general, unable to estimate the enemy's strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank, the result must be rout.
+19. W___ _ gener___ una___ __ estim___ ___ enem___ streng___ all___ __ infer___ fo___ __ eng___ _ lar___ o___ __ hu___ _ w___ detachm___ agai___ _ power___ o___ ___ negle___ __ pl___ pic___ soldi___ __ ___ fr___ ra___ ___ res___ m___ __ ro___
+
+20. These are six ways of courting defeat, which must be carefully noted by the general who has attained a responsible post.
+20. Th___ ___ ___ w___ __ court___ defe___ wh___ m___ __ carefu___ no___ __ ___ gene___ ___ ___ attai___ _ responsi___ po___
+
+21. The natural formation of the country is the soldier's best ally; but a power of estimating the adversary, of controlling the forces of victory, and of shrewdly calculating difficulties, dangers and distances, constitutes the test of a great general.
+21. ___ natu___ format___ __ ___ coun___ __ ___ soldie___ b___ al___ ___ _ po___ __ estimat___ ___ adversa___ __ controll___ ___ for___ __ victo___ ___ __ shrew___ calculat___ difficulti___ dang___ ___ distanc___ constitu___ ___ t___ __ _ gr___ gener___
+
+22-1. He who knows these things, and in fighting puts his knowledge into practice, will win his battles.
+22-1. __ ___ kn___ th___ thin___ ___ __ fight___ p___ ___ knowle___ i___ practi___ w___ ___ ___ battl___
+
+22-2. He who knows them not, nor practices them, will surely be defeated.
+22-2. __ ___ kn___ t___ n___ ___ practi___ th___ w___ sur___ __ defeat___
+
+23. If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding.
+23. __ fight___ __ s___ __ res___ __ victo___ t___ ___ m___ fig___ e___ tho___ ___ ru___ for___ ___ __ fight___ w___ ___ res___ __ victo___ t___ ___ m___ ___ fi___ e___ __ ___ rule___ biddi___
+
+24. The general who advances without coveting fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom.
+24. ___ gene___ ___ advan___ with___ covet___ f___ ___ retre___ with___ fear___ disgra___ wh___ o___ thou___ __ __ prot___ ___ coun___ ___ __ g___ serv___ ___ ___ soverei___ __ ___ je___ __ ___ kingd___
+
+25. Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death.
+25. Reg___ y___ soldi___ __ y___ childr___ ___ t___ w___ fol___ ___ i___ ___ deep___ valle___ l___ u___ t___ __ y___ ___ belo___ so___ ___ t___ w___ st___ __ ___ e___ u___ dea___
+
+26. If, however, you are indulgent, but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children; they are useless for any practical purpose.
+26. ___ howev___ ___ ___ indulge___ ___ una___ __ m___ y___ author___ fe___ kind-heart___ ___ una___ __ enfo___ y___ comman___ ___ incapab___ moreov___ __ quell___ disord___ t___ y___ soldi___ m___ __ like___ __ spo___ childr___ t___ ___ usel___ ___ ___ practi___ purpo___
+
+27. If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory.
+27. __ __ k___ t___ ___ ___ ___ ___ __ _ condit___ __ atta___ ___ ___ unaw___ t___ ___ en___ __ ___ o___ __ atta___ __ h___ g___ o___ half___ towa___ victo___
+
+28. If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway towards victory.
+28. __ __ k___ t___ ___ en___ __ o___ __ atta___ ___ ___ unaw___ t___ ___ ___ ___ ___ ___ __ _ condit___ __ atta___ __ h___ g___ o___ half___ towa___ victo___
+
+29. If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory.
+29. __ __ k___ t___ ___ en___ __ o___ __ atta___ ___ a___ k___ t___ ___ ___ ___ __ _ condit___ __ atta___ ___ ___ unaw___ t___ ___ nat___ __ ___ gro___ ma___ fight___ impracticab___ __ h___ st___ g___ o___ half___ towa___ victo___
+
+30. Hence the experienced soldier, once in motion, is never bewildered; once he has broken camp, he is never at a loss.
+30. He___ ___ experien___ soldi___ o___ __ moti___ __ ne___ bewilder___ o___ __ ___ bro___ ca___ __ __ ne___ __ _ lo___
+
+31. Hence the saying: If you know the enemy and know yourself, your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory complete.
+31. He___ ___ sayi___ __ ___ k___ ___ en___ ___ k___ yourse___ y___ vict___ w___ ___ st___ __ dou___ __ ___ k___ Hea___ ___ k___ Ear___ ___ ___ m___ y___ vict___ comple___
+

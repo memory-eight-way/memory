@@ -1,0 +1,28 @@
+
+make_quiz.py
+	lv1からlv100の問題を作成します。
+
+make_quiz2_swap.py
+	入れ替えに特化して問題を作成します。
+	入れ替えた単語の先頭に*をつけます。
+
+make_quiz3_mask_letter_contain.py
+	特定の文字を含む単語をマスクします。
+
+make_quiz4_mask_letter_start.py
+	特定の文字で始まる単語をマスクします。
+
+make_quiz5_mask_letter_end.py
+	特定の文字で終わる単語をマスクします。
+	
+make_quiz_all.py
+	上記の5つのパターンをまとめて作成します。
+		
+
+※カンマ、ピリオド、感嘆符、疑問符などの記号も単語の一部としています。
+※quiz3,quiz4,quiz5のlvは難度ではなく、文字をあらわします。
+※make_quiz.py が基本ですが、難度がいまひとつだったので調整できないか、作ってみたのがquiz2～quiz5になります。
+
+
+
+		

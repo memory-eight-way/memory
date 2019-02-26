@@ -1,89 +1,60 @@
 Lv12-mask_last_letter
 V. ENE___
 
-
 1. ___ ___ sa___ ___ cont___ __ _ la___ fo___ __ ___ s___ princi___ __ ___ cont___ __ _ ___ m___ __ __ mer___ _ quest___ __ divid___ __ th___ numbe___
-
 
 2. Fight___ w___ _ la___ a___ un___ y___ comm___ __ now___ differ___ f___ fight___ w___ _ sm___ o___ __ __ mer___ _ quest___ __ institut___ si___ ___ signa___
 
-
 3. __ ens___ t___ y___ wh___ h___ ___ withst___ ___ br___ __ ___ enem___ att___ ___ rem___ unshake___ t___ __ effec___ __ maneuv___ dir___ ___ indire___
-
 
 4. T___ ___ imp___ __ y___ a___ ___ __ l___ _ grindst___ das___ agai___ __ eg___ t___ __ effec___ __ ___ scie___ __ w___ poi___ ___ stro___
 
-
 5. __ ___ fighti___ ___ dir___ met___ ___ __ u___ ___ join___ batt___ ___ indir___ meth___ w___ __ nee___ __ or___ __ sec___ victo___
-
 
 6. Indir___ tacti___ efficien___ appli___ ___ inexhausti___ __ Hea___ ___ Ear___ unend___ __ ___ f___ __ riv___ ___ strea___ l___ ___ ___ ___ mo___ t___ ___ ___ __ be___ an___ l___ ___ f___ seaso___ t___ p___ a___ __ ret___ o___ mo___
 
-
 7. Th___ ___ ___ m___ t___ f___ musi___ not___ ___ ___ combinati___ __ th___ f___ g___ r___ __ m___ melod___ t___ ___ e___ __ hea___
-
 
 8. Th___ ___ ___ m___ t___ f___ prim___ col___ (bl___ yell___ r___ whi___ ___ blac___ ___ __ combinat___ t___ prod___ m___ h___ t___ ___ e___ b___ se___
 
-
 9. Th___ ___ ___ m___ t___ f___ cardi___ tas___ (so___ acr___ sa___ swe___ bitte___ ___ combinati___ __ t___ yi___ m___ flav___ t___ ___ e___ __ tast___
-
 
 10. __ batt___ th___ ___ ___ m___ t___ ___ meth___ __ attac___ ___ dir___ ___ ___ indire___ ___ th___ ___ __ combinat___ g___ r___ __ __ endl___ ser___ __ maneuve___
 
-
 11-1. ___ dir___ ___ ___ indir___ l___ __ __ e___ ot___ __ tu___
-
 
 11-2. __ __ l___ mov___ __ _ circl___ ___ ne___ c___ __ __ e___
 
-
 11-3. ___ ___ exha___ ___ possibilit___ __ th___ combinati___
-
 
 12. ___ on___ __ tro___ __ l___ ___ r___ __ _ torr___ wh___ w___ e___ r___ sto___ al___ __ ___ cour___
 
-
 13. ___ qual___ __ decis___ __ l___ ___ well-ti___ sw___ __ _ fal___ wh___ enab___ __ __ str___ ___ dest___ ___ vict___
-
 
 14. Theref___ ___ g___ figh___ w___ __ terri___ __ ___ ons___ ___ pro___ __ ___ decisi___
 
-
 15. Ene___ ___ __ like___ __ ___ bend___ __ _ crossb___ decisi___ __ ___ releas___ __ _ trigg___
-
 
 16. A___ ___ turm___ ___ tum___ __ batt___ th___ ___ __ seem___ disor___ ___ ___ __ r___ disor___ __ a___ a___ confus___ ___ cha___ y___ ar___ ___ __ with___ h___ __ ta___ ___ __ w___ __ pr___ agai___ defe___
 
-
 17. Simula___ disor___ postula___ perf___ discipli___ simula___ f___ postula___ coura___ simula___ weakn___ postula___ streng___
-
 
 18. Hid___ or___ bene___ ___ cl___ __ disor___ __ sim___ _ quest___ __ subdivisi___ conceal___ cour___ un___ _ s___ __ timid___ presuppo___ _ f___ __ lat___ ener___ mask___ stren___ w___ weakn___ __ __ __ effec___ __ tacti___ dispositio___
 
-
 19-1. T___ ___ ___ __ skill___ __ keep___ ___ en___ __ ___ m___ mainta___ deceit___ appearanc___ accord___ __ wh___ ___ en___ w___ a___
-
 
 19-2. __ sacrifi___ somethi___ t___ ___ en___ ___ sna___ __ ___
 
-
 20. __ hold___ ___ bai___ __ ke___ ___ __ ___ mar___ t___ w___ _ b___ __ pic___ ___ __ l___ __ w___ ___ h___
-
 
 21-1. ___ cle___ combat___ lo___ __ ___ eff___ __ combi___ ener___ ___ d___ ___ requ___ ___ m___ f___ individua___
 
-
 21-2. He___ ___ abil___ __ p___ ___ ___ ri___ ___ ___ util___ combi___ ener___
-
 
 22-1. W___ __ utili___ combi___ ener___ ___ fight___ ___ bec___ __ __ w___ l___ u___ roll___ l___ __ ston___
 
-
 22-2. ___ __ __ ___ nat___ __ _ ___ __ st___ __ rem___ motionl___ __ le___ grou___ ___ __ m___ w___ __ _ slo___ __ four-corner___ __ c___ __ _ standsti___ ___ __ round-shap___ __ __ roll___ do___
 
-
 23-1. T___ ___ ene___ develo___ __ g___ fight___ ___ __ __ ___ momen___ __ _ ro___ st___ rol___ d___ _ mount___ thousa___ __ f___ __ heig___
-
 
 23-2. __ m___ __ ___ subj___ __ ener___
