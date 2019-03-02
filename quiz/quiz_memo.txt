@@ -25,4 +25,17 @@ make_quiz_all.py
 
 
 
-		
+Ç®ä©ÇﬂÇÃèáî‘
+	quiz/lv01_space		
+	quiz/lv05_mask_vowel
+	quiz/lv06_mask_consonant
+	quiz/lv11_mask_last_letter
+	quiz/lv30_mask_short_word
+	quiz/lv40_mask_long_word
+	quiz/lv70_even
+	quiz/lv71_odd
+	quiz/lv80_top_word
+	quiz/lv90_top_letter
+	quiz/lv98_linenumberonley
+
+
