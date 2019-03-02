@@ -1,0 +1,75 @@
+SKIP:Lv1-space.
+--------------------
+.:OK
+--------------------
+II.:OK
+--------------------
+1-1.
+SCORE10:6
+SCORE100:51
+base:Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand li, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armor, will reach the total of a thousand ounces of silver per day.
+ans :Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand li,the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armor, will reach the total of a thousand ounces of silver per day.
+--------------------
+1-2.:OK
+--------------------
+2-1.:OK
+--------------------
+2-2.:OK
+--------------------
+3.:OK
+--------------------
+4-1.:OK
+--------------------
+4-2.:OK
+--------------------
+5.:OK
+--------------------
+6.:OK
+--------------------
+7.:OK
+--------------------
+8.:OK
+--------------------
+9-1.:OK
+--------------------
+9-2.:OK
+--------------------
+10-1.:OK
+--------------------
+10-2.:OK
+--------------------
+11.
+SCORE10:8
+SCORE100:66
+base:On the other hand, the proximity of an army causes prices to go up; and high prices cause the people's substance to be drained away.
+ans :On the other hand, the proximity of anarmy causes prices to go up; and high prices cause the people's substance to be drained away.
+--------------------
+12.:OK
+--------------------
+13,14.:OK
+--------------------
+15-1.:OK
+--------------------
+15-2.
+SCORE10:9
+SCORE100:95
+base:One cartload of the enemy's provisions is equivalent to twenty of one's own, and likewise a single picul of his provender is equivalent to twenty from one's own store.
+ans :One cart load of the enemy's provisions is equivalent to twenty of one's own, and likewise a single picul of his provender is equivalent to twenty from one's own store.
+--------------------
+16.:OK
+--------------------
+17-1.:OK
+--------------------
+17-2.:OK
+--------------------
+17-3.:OK
+--------------------
+18.:OK
+--------------------
+19.:OK
+--------------------
+20.:OK
+--------------------
+âÒìöçsêî:29
+10ì_ï]âø:9
+100ì_ï]âø:93

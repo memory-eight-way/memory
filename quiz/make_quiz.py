@@ -1146,6 +1146,10 @@ def make_quiz():
 
 
 if __name__=="__main__":
+    
+    #回答付のテキストを作成する
+    FLAG_ANSWER=True
+
     # The Art Of War
     make_quiz()
     

@@ -49,6 +49,9 @@ def make_quiz_holmes():
 def make_quiz():
     #make_quiz_file("../TheArtOfWar/base","TheArtOfWar")
     make_quiz_file("../TheArtOfWar/base","")
+
+def make_quiz_poem():
+    make_quiz_file("../POETRY/base","POETRY")
     
     
 def set_flag_answer(wFlag):
@@ -68,3 +71,6 @@ if __name__=="__main__":
     
     # Holmes 
     #make_quiz_holmes()
+
+    #make_quiz_poem()
+
