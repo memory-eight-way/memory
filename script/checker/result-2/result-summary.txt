@@ -1,0 +1,5 @@
+--------------------
+FILE:the_art_of_war_chap_01.txt
+ANSER_LINE:5
+SCORE10   :9
+SCORE100  :85

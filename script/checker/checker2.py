@@ -182,13 +182,14 @@ def get_score_100(w_quiz_line,w_base_line):
     return (w_miss,w_score)
         
     
-def make_result(quiz_lines ,base_lines):
+def make_result(quiz_lines ,base_lines,quiz_base_lines):
     li_ret=list()
 
     di_quiz=dict()
     di_base=dict()
     li_quiz=list()
     di_summary=dict()
+    di_quiz_base=dict()
     #回答の行を辞書に変換
     di_summary["ANSWER_LINE"] = 0
     for quiz_line in quiz_lines:
@@ -204,7 +205,15 @@ def make_result(quiz_lines ,base_lines):
         line_info=line_to_number_body_pair(base_line  )
         if is_memory_line(line_info):
             di_base[line_info[0]]=line_info[1]
+        
+    #問題文の行を辞書に変換
+    for quiz_base_line in quiz_base_lines:
+        line_info=line_to_number_body_pair(quiz_base_line)
+        if is_memory_line(line_info):
+            di_quiz_base[line_info[0]]=line_info[1]
 
+
+        
     di_summary["TOTAL-SCORE10"] = 0
     di_summary["TOTAL-SCORE100"] = 0
 
@@ -216,6 +225,11 @@ def make_result(quiz_lines ,base_lines):
             continue
 
         li_ret.append("-"*20)
+        if w_chk_line_number in di_quiz_base:
+            if di_quiz_base[w_chk_line_number]==di_quiz[w_chk_line_number]:
+                #回答が問題文と一致 → 回答していない
+                li_ret.append("SKIP-NO-ANSWER:"+w_chk_line_number )
+                continue
 
         di_summary["ANSWER_LINE"] = di_summary["ANSWER_LINE"] +1
 
@@ -253,7 +267,7 @@ def make_result(quiz_lines ,base_lines):
              
     return (di_summary,li_ret)
     
-def make_check_result(quiz_folder,base_folder,result_folder):
+def make_check_result(quiz_folder,base_folder,result_folder,quiz_base_folder):
     """
     Quizの回答の結果をチェック
     """
@@ -275,6 +289,7 @@ def make_check_result(quiz_folder,base_folder,result_folder):
         f.close()
         
         
+        
         w_base_file=os.path.join(base_folder,w_chap_file_name)
         if os.path.isfile(w_base_file):
             #覚えた対象のファイルを読み込み
@@ -282,13 +297,25 @@ def make_check_result(quiz_folder,base_folder,result_folder):
             base_lines=f.readlines()
             f.close()
             
+            quiz_base_file=os.path.join(quiz_base_folder,w_chap_file_name)
+            if os.path.isfile(quiz_base_file):
+                print("base-quiz:"+quiz_base_file)
+                f=open(quiz_base_file,"r")
+                quiz_base_lines=f.readlines()
+                f.close()
+            else:
+                print("base-quiz not exist:"+quiz_base_file)
+                quiz_base_lines=list()
+            
+            
             #結果をファイル毎に書き込み
-            ret_one=make_result(quiz_lines,base_lines)
+            ret_one=make_result(quiz_lines,base_lines,quiz_base_lines)
             di_chap_summary[w_chap_file_name]=ret_one[0]
             
             result_one_file=os.path.join(result_folder,"result-"+w_chap_file_name)
             f=open(result_one_file,"w")
             ret_txt="\n".join(ret_one[1])
+            #ret_txt="\n".join(ret_one[1])
             f.write(ret_txt)
             f.close()
             
@@ -331,9 +358,11 @@ def main():
         #記憶した結果を書き込んだファイル
         quiz_folder="../../daily/2019/201903/20190302_theartofwar/quiz/lv01_space"
         
+        #問題文のファイル
+        quiz_base_folder="../../quiz/quiz/lv01_space"
     
     # result のフォルダに結果を書き込みます。
-    make_check_result(quiz_folder,base_folder,"result")
+    make_check_result(quiz_folder,base_folder,"result-2",quiz_base_folder)
     
 
 if __name__=="__main__":

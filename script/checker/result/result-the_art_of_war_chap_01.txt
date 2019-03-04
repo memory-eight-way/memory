@@ -1,0 +1,38 @@
+--------------------
+I.:OK
+--------------------
+1.:OK
+--------------------
+2-1.
+SCORE10 :9
+SCORE100:88
+base:It is a matter of life and death, a road either to safety or to ruin.
+ans :Itis a matter of life and death, a road either to safety or to ruin.
+- It is a matter of life and death, a road either to safety or to ruin.
+?   -
+
++ Itis a matter of life and death, a road either to safety or to ruin.
+--------------------
+2-2.
+SCORE10 :9
+SCORE100:80
+base:Hence it is a subject of inquiry which can on no account be neglected.
+ans :Hence it is a subject of inquiry which can on no accountbe neglected.
+- Hence it is a subject of inquiry which can on no account be neglected.
+?                                                         -
+
++ Hence it is a subject of inquiry which can on no accountbe neglected.
+--------------------
+3.
+SCORE10 :7
+SCORE100:60
+base:The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.
+ans :The art of war, then, is governed by five constant factors,to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.
+- The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.
+?                                                            -
+
++ The art of war, then, is governed by five constant factors,to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.
+--------------------
+âÒìöçsêî:5
+10ì_ï]âø:9
+100ì_ï]âø:85
